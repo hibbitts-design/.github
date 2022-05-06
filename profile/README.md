@@ -5,7 +5,7 @@ Welcome to Hibbitts Design, where a systems-first approach to open [source] soft
 ## What's happening these days?
 - 👨🏽‍🏫 Teaching SFU [CMPT-363 User Interface Design](https://canvas.sfu.ca/courses/69678) online Summer 2022
 - 💻 Working on several open education and publishing projects, including [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit)
-- 🛟 Helping other educators build better online experiences for their students
+- 🛟 Helping other educators create better online experiences for their students
 - 🌱 Always learning, always building
 
 ## Connect with me
