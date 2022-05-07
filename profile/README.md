@@ -7,6 +7,7 @@ Welcome to Hibbitts Design, where a systems-first approach to open [source] soft
 - 💻 Working on several open education and publishing projects, including [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit)
 - 🛟 Helping other educators create better online experiences for their students
 - 🌱 Always learning, always designing, always building
+- 🔭 Oh, and enjoying getting back into astronomy a bit
 
 ## Connect with me
 <p align='center'>
