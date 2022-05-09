@@ -4,7 +4,7 @@ Welcome to Hibbitts Design, where a systems-first approach to open [source] soft
 
 ## What‘s happening these days?
 - 💻 Working on several open education and publishing projects, including [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit)
-- 🛟 Helping other educators create better online experiences for their students
+- 🛟 Helping teams or individual educators create better online experiences for their students
 - 👨🏼‍🏫 Teaching SFU [CMPT-363 User Interface Design](https://canvas.sfu.ca/courses/69678) online Summer 2022
 - 🌱 Always learning, always designing, always building
 
