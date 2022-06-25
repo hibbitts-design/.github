@@ -8,8 +8,8 @@ Welcome to Hibbitts Design, where a systems-first approach to open [source] soft
   - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open educators, OER publishers, and students
   - In addition to the standard Starter Kits, several pre-configured templates are also now available:
     -  [Docsify Open Publishing Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-one-page)
-    -  [Docsify Open Course Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-course-starter-kit-one-page)
     -  [Docsify Open Publishing Starter Kit Remote](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-remote)
+    -  [Docsify Open Course Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-course-starter-kit-one-page)
 - 🛟 Helping teams and individual educators create better online experiences for their students
 - 👨🏼‍🏫 Teaching SFU [CMPT-363 User Interface Design](https://canvas.sfu.ca/courses/69678) online Summer 2022
 - 🌱 Always learning, always designing, always building
