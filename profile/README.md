@@ -6,7 +6,7 @@ Welcome to Hibbitts Design, where a systems-first approach to open [source] soft
 - 💻 Working on several open education and publishing projects, including:
   - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course facilitators
   - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open educators, OER publishers, and students
-  - In addition to the standard Starter Kits, several pre-configured templates are also available:
+  - In addition to the standard Starter Kits, several pre-configured templates are also now available:
     -  [Docsify Open Publishing Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-one-page)
     -  [Docsify Open Course Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-course-starter-kit-one-page)
     -  [Docsify Open Publishing Starter Kit Remote](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-remote)
