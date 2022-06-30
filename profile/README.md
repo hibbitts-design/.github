@@ -10,7 +10,7 @@ Welcome to Hibbitts Design, where a systems-first approach to open [source] soft
     -  [Docsify Open Publishing Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-one-page)
     -  [Docsify Open Publishing Starter Kit Remote](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-remote)
     -  [Docsify Open Course Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-course-starter-kit-one-page)
-  - Based on the [Docsify Open Publishing Starter Kit Remote](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-remote), the [Docsify-This](http://docsify-this.net/) Web site can render remote Markdown files
+  - Based on the [Docsify Open Publishing Starter Kit Remote](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-remote), the [Docsify-This](http://docsify-this.net/) Web site provides a quick way to render a remote Markdown file as a standalone page
 - 🛟 Helping teams and individual educators create better online experiences for their students
 - 👨🏼‍🏫 Teaching SFU [CMPT-363 User Interface Design](https://canvas.sfu.ca/courses/69678) online Summer 2022
 - 🌱 Always learning, always designing, always building
