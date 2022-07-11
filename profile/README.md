@@ -8,8 +8,8 @@ Welcome to Hibbitts Design, where a systems-first approach to open [source] soft
   - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open educators, OER publishers, and students
   - In addition to the standard Docsify Starter Kits, several pre-configured templates are also now available:
     -  [Docsify Open Publishing Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-one-page)
-    -  [Docsify Open Publishing Starter Kit Remote](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-remote)
     -  [Docsify Open Course Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-course-starter-kit-one-page)
+    -  [Docsify Open Publishing Starter Kit Remote](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-remote)
   - Based on the [Docsify Open Publishing Starter Kit Remote](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-remote), [docsify-this.net](http://docsify-this.net/) provides a quick way to render a [remote Markdown file](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/main/README.md) as a [standalone page](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/), with an [optional table of contents](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/&toc=true)
 - 🛟 Helping teams and individual educators create better online experiences for their students
 - 👨🏼‍🏫 Teaching SFU [CMPT-363 User Interface Design](https://canvas.sfu.ca/courses/69678) online Summer 2022
