@@ -14,6 +14,9 @@ Welcome to Hibbitts Design, where a systems-first approach to open [source] soft
 - 👨🏼‍🏫 Recently wrapped up teaching six successive offerings of SFU [CMPT-363 User Interface Design](https://canvas.sfu.ca/courses/69678), which was re-designed as an online variation of the traditional 3rd-year face-to-face course.
 - 🌱 Always learning, always designing, always building
 
+## Services provided
+To help increase adoption and fund his open source work, I offer a range of services related to my [Docsify](https://docsify.js.org/#/) and [Grav CMS](https://getgrav.org/) open source projects including consulting, premium support subscriptions, workshops, custom development. Sound of interest? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
+
 ## Connect with me
 <p align='center'>
   <a href="https://twitter.com/hibbittsdesign">
