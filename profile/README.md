@@ -20,6 +20,9 @@ To help increase adoption and fund my open source work, I offer a range of servi
 
 ## Connect with me
 <p align='center'>
+  <a href="https://mastodon.social/@hibbittsdesign">
+    <img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" />
+  </a>
   <a href="https://twitter.com/hibbittsdesign">
     <img src="https://img.shields.io/static/v1?label=Twitter&message=hibbittsdesign&color=blue&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
