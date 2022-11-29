@@ -9,7 +9,7 @@ Welcome to Hibbitts Design, where a systems-first approach to open [source] soft
   - In addition to the standard Docsify Starter Kits, several pre-configured templates are also now available:
     -  [Docsify Open Publishing Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit-one-page)
     -  [Docsify Open Course Starter Kit One Page](https://github.com/hibbitts-design/docsify-open-course-starter-kit-one-page)
-  - Based on the Docsify Open Publishing Starter Kit, my new [Docsify-This.net](http://docsify-this.net/) project provides a quick way to render remote Markdown files without your own instance of Docsify, as [standalone web pages](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/)
+  - Based on the Docsify Open Publishing Starter Kit, my new [Docsify-This.net](http://docsify-this.net/) project provides a quick way to render remote Markdown files without your own instance of Docsify
   - Several pre-configured Docsify-This templates are also now available:
     -  [Docsify-This One Page Course Template](https://github.com/hibbitts-design/docsify-this-one-page-course)
     -  [Docsify-This One Page Article Template](https://github.com/hibbitts-design/docsify-this-one-page-article)
