@@ -1,6 +1,6 @@
 # Well, hello there 👋🏼
 
-Welcome to Hibbitts Design, where a systems-first approach to open [source] software for tech curious educators and publishers is combined with a focus on the user experience of both authors and students.
+Welcome to Hibbitts Design, where a systems-oriented approach to open [source] software for tech curious educators and publishers is combined with a focus on the user experience of both authors and students.
 
 ## What‘s happening these days?
 - 💻 Working on several open education and publishing projects, including:
