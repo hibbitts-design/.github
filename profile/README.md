@@ -16,7 +16,7 @@ Welcome to Hibbitts Design, where a systems-oriented approach to open [source] s
 - 🌱 Always learning, always designing, always building
 
 ## Services provided
-To help increase adoption and fund my open source work, I offer a range of services related to my [Docsify](https://docsify.js.org/#/) and [Grav CMS](https://getgrav.org/) open source projects including consulting, premium support subscriptions, workshops, and custom development. Sound of interest? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
+To help increase adoption and fund my open source work, I offer various services related to my [Docsify](https://docsify.js.org/#/) and [Grav CMS](https://getgrav.org/) projects to help open educators and publishers leverage Markdown software and workflows more effectively. Services include consulting, premium support subscriptions, workshops, and custom development. Sound of interest? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
 ## Connect with me
 <p align='center'>
