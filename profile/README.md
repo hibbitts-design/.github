@@ -23,14 +23,10 @@ To help increase adoption and help fund my open source work, I offer professiona
 
 <tr>
     <td>
-      <a href="https://mastodon.social/@hibbittsdesign">
-      <img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
+      <a href="https://mastodon.social/@hibbittsdesign"><img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
     </td>
     <td>
-      <a href="https://mastodon.social/@hibbittsdesign">
-      <img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" />
-  </a>
+      <a href="https://mastodon.social/@hibbittsdesign"><img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
     </td>
  </tr>
 
