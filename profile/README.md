@@ -20,6 +20,21 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 To help increase adoption and help fund my open source work, I offer professional services related to my [Docsify](https://docsify.js.org/#/) and [Grav CMS](https://getgrav.org/) projects to help open educators and publishers leverage Markdown software and workflows more effectively. Services include consulting, premium support subscriptions, workshops, and custom development. Sound of interest? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
 ## Connect with me
+
+<tr>
+    <td>
+      <a href="https://mastodon.social/@hibbittsdesign">
+      <img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" />
+  </a>
+    </td>
+    <td>
+      <a href="https://mastodon.social/@hibbittsdesign">
+      <img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" />
+  </a>
+    </td>
+ </tr>
+
+ 
 <p align='center'>
   <a href="https://mastodon.social/@hibbittsdesign">
     <img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" />
