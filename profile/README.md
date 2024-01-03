@@ -26,6 +26,6 @@ To help increase adoption and help fund my open source work, I offer professiona
       <a href="https://mastodon.social/@hibbittsdesign"><img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
     </td>
     <td>
-      <a href="https://mastodon.social/@hibbittsdesign"><img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/paulhibbitts/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Paul%20Hibbitts&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </td>
  </tr>
