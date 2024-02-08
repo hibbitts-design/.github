@@ -16,6 +16,8 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 - 💼 Are you teaching a UX, Web/Software design or publishing course in Vancouver/Burnaby/Surrey this Fall? I am offering [several possible guest lecture/discussion topics for local in-person classes](https://www.linkedin.com/posts/paulhibbitts_are-you-teaching-a-ux-websoftware-design-activity-7097259423617712129-AtVi) based on my open source experiences.
 - 🌱 Always learning, always designing, always building
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=paulhibbitts)](https://github.com/Web-learning/github-contribution-stats/)
+
 ## Services provided
 To help increase adoption and help fund my open source work, I offer professional services related to my [Docsify](https://docsify.js.org/#/) and [Grav CMS](https://getgrav.org/) projects to help open educators and publishers leverage Markdown software and workflows more effectively. Services include consulting, premium support subscriptions, workshops, and custom development. Sound of interest? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
@@ -29,5 +31,3 @@ To help increase adoption and help fund my open source work, I offer professiona
       <a href="https://ca.linkedin.com/in/paulhibbitts/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Paul%20Hibbitts&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </td>
  </tr>
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=paulhibbitts)](https://github.com/Web-learning/github-contribution-stats/)
