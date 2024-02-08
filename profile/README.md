@@ -16,6 +16,8 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 - 💼 Are you teaching a UX, Web/Software design or publishing course in Vancouver/Burnaby/Surrey this Fall? I am offering [several possible guest lecture/discussion topics for local in-person classes](https://www.linkedin.com/posts/paulhibbitts_are-you-teaching-a-ux-websoftware-design-activity-7097259423617712129-AtVi) based on my open source experiences.
 - 🌱 Always learning, always designing, always building
 
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulhibbitts&show_icons=true&theme=transparent)
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=paulhibbitts)](https://github.com/hibbitts-design/.github/graphs/contributors)
 
 ## Services provided
