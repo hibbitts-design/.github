@@ -1,5 +1,7 @@
 # Well, hello there 👋🏼
 
+![readme-banner](https://github.com/hibbitts-design/.github/assets/1812771/4f728205-75ce-48b9-88ec-355d999d32d5)
+
 Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software for tech-savvy or curious educators and publishers is combined with a focus on the user experience of both authors and students.
 
 ## What‘s happening these days?
