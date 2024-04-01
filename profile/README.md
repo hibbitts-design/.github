@@ -1,4 +1,4 @@
-![GitHub Readme Banner](https://github.com/hibbitts-design/.github/assets/1812771/94e83e08-5fe5-47f2-bb56-7b9db40673d8)
+![GitHub Readme Banner](https://github.com/hibbitts-design/.github/assets/1812771/1b0af8d6-bc72-4757-ab37-709ae8c977b7)
 
 # Well, hello there 👋🏼
 
