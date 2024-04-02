@@ -1,4 +1,4 @@
-![GitHub Readme Banner](https://github.com/hibbitts-design/.github/assets/1812771/89b3926d-4e93-4ade-b989-1a21d2feba99)
+![Open-Source Software to Empower Digitally Curious Open Educators and Publishers](https://github.com/hibbitts-design/.github/assets/1812771/dcce80f1-b050-43cc-84b5-0118c1a098f7)
 
 # Well, hello there 👋🏼
 
