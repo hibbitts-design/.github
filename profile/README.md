@@ -1,4 +1,4 @@
-![Open-Source Software to Empower Digitally Curious Open Educators and Publishers](https://github.com/hibbitts-design/.github/assets/1812771/34ca3f88-f0a0-47da-a455-6456bc62c570)
+![Open-Source Software to Empower Digitally Curious Open Educators and Publishers](https://github.com/hibbitts-design/.github/assets/1812771/6a1f7cb9-afb7-49f4-93b2-0c2ac2a79d85)
 
 # Well, hello there 👋🏼
 
