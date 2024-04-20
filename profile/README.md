@@ -26,8 +26,8 @@ To help increase adoption and help fund my open source work, I offer professiona
 
 ## Support HibbittsDesign.org projects
 
-* Star one or more of the projects on GitHub⭐️
-* Share your experiences of a project on social media📢
+* Star one or more of my projects on GitHub⭐️
+* Share your experience of my projects on social media📢
 
 Interested in financially supporting my open source work? I’d be honoured if you pledge the same funds to an open source project of your choice🙏🏻
 
