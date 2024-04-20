@@ -24,7 +24,7 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 ## Services provided
 To help increase adoption and help fund my open source work, I offer professional services related to my [Docsify](https://docsify.js.org/#/) and [Grav CMS](https://getgrav.org/) projects to help open educators and publishers leverage Markdown software and workflows more effectively. Services include consulting, premium support subscriptions, workshops, and custom development. Sound of interest? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
-## Support HibbittsDesign.org Open Source Projects
+## Support HibbittsDesign.org Projects
 
 * Star one of my projects on GitHub⭐️
 * Share your experiences of my projects on social media📢
