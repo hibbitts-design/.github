@@ -30,7 +30,7 @@ To help increase adoption and help fund my open source work, I offer professiona
 * Star one or more of my projects on GitHub⭐️
 * Help spread the word about my projects on social media📢
 
-Interested in financially supporting my open source work? I’d be honoured if you pledge the same funds to an open source project of your choice🙏🏻
+Interested in financially supporting my open source work? I’d be honoured if you pledge the same funds to another open source project of your choice🙏🏻
 
 ## Connect with me
 
