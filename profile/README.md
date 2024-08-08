@@ -3,7 +3,7 @@
 
 <h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
-<span style="font-size:1.3rem;">Well, hello there 👋🏼</span>
+<span style="font-size:2.3em;">Well, hello there 👋🏼</span>
 
 Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software for tech-savvy or curious educators and publishers is combined with a focus on the user experience of both authors and students.
 
