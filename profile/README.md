@@ -2,7 +2,7 @@
 
 # OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS
 
-<h2 style="0px solid black;">Well, hello there 👋🏼</h2>
+<h2 style="border-bottom: 0px solid black;">Well, hello there 👋🏼</h2>
 
 Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software for tech-savvy or curious educators and publishers is combined with a focus on the user experience of both authors and students.
 
