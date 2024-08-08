@@ -1,8 +1,6 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-
 ![layout-9](https://github.com/user-attachments/assets/cab0a19e-30a3-4ea1-b92e-361d1dcc3c55)
 
-<h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
+<h1 style="border-bottom: none;">OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
 ## Well, hello there 👋🏼
 
