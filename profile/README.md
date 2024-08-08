@@ -1,4 +1,4 @@
-![layout-9a](https://github.com/user-attachments/assets/675afe2a-8448-4aa5-95a9-f805711a122e)
+![Graphic images for Open, Empower and Sharing](https://github.com/user-attachments/assets/bf421224-60e8-46be-b410-c260d9f55503)
 
 # OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS
 
