@@ -4,7 +4,7 @@
 
 **Well, hello there 👋🏼**  
 
-Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software for digitally-savvy or curious educators and publishers is combined with a focus on the user experience of both authors and students.
+Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software is combined with a focus on the user experience of both authors and students.
 
 ## What‘s happening these days?
 - 💻 Working on several open education and publishing projects, including:
