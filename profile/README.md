@@ -46,4 +46,6 @@ Interested in financially supporting my open source work? I’d be honoured if y
     </td>
  </tr>
 
+![layout-7](https://github.com/user-attachments/assets/bc994a32-d030-4d14-b253-ba630eecef4d)
+
 <img src="https://github.com/hibbitts-design/.github/assets/1812771/6a1f7cb9-afb7-49f4-93b2-0c2ac2a79d85" alt="Open-Source Software to Empower Digitally Curious Open Educators and Publishers" width="100%">
