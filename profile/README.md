@@ -1,4 +1,6 @@
-<img src="https://github.com/hibbitts-design/.github/assets/1812771/6a1f7cb9-afb7-49f4-93b2-0c2ac2a79d85" alt="Open-Source Software to Empower Digitally Curious Open Educators and Publishers" width="100%">
+![layout-9](https://github.com/user-attachments/assets/5d6674ca-dbe8-4266-a0c1-730bc0ae4fbd)
+
+<h1>OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS</h1>
 
 # Well, hello there 👋🏼
 
@@ -42,3 +44,5 @@ Interested in financially supporting my open source work? I’d be honoured if y
       <a href="https://ca.linkedin.com/in/paulhibbitts/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Paul%20Hibbitts&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </td>
  </tr>
+
+<img src="https://github.com/hibbitts-design/.github/assets/1812771/6a1f7cb9-afb7-49f4-93b2-0c2ac2a79d85" alt="Open-Source Software to Empower Digitally Curious Open Educators and Publishers" width="100%">
