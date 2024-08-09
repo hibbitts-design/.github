@@ -1,4 +1,4 @@
-![Graphic images for Open, Empower and Sharing - created by Jason Toal of Same Page Studio](https://github.com/user-attachments/assets/b6ce0e98-c9d0-449b-98a1-a15a216cf29e)
+![Large icons for Open, Empowered, and Publishing - created by Jason Toal of Same Page Studio](https://github.com/user-attachments/assets/e7804ae0-7556-4e98-8d6c-9e123845bc3e)
 
 # OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS
 
