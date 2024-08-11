@@ -1,12 +1,12 @@
 ![Large icons for Open, Empowered, and Publishing - created by Jason Toal of Same Page Studio](https://github.com/user-attachments/assets/e7804ae0-7556-4e98-8d6c-9e123845bc3e)
 
-# OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS
+## OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS
 
 **Well, hello there 👋🏼**  
 
 Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software is combined with a focus on the user experience of both authors and students.
 
-## What‘s happening these days?
+### What‘s happening these days?
 - 💻 Working on several open education and publishing projects, including:
   - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators
   - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open educators, OER publishers, and students
@@ -24,17 +24,17 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=paulhibbitts)](https://git.io/streak-stats)
 
-## Services provided
+### Services provided
 To help increase adoption and help fund my open source work, I offer professional services related to my [Docsify](https://docsify.js.org/#/) and [Grav CMS](https://getgrav.org/) projects to help open educators and publishers leverage Markdown software and workflows more effectively. Services include consulting, premium support subscriptions, workshops, and custom development. Sound of interest? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
-## Supporting my projects
+### Supporting my projects
 
 * Star one or more of my projects on GitHub⭐️
 * Help spread the word about my projects on social media📢
 
 Interested in financially supporting my open source work? I’d be honoured if you pledge the same funds to another open source project of your choice.
 
-## Connect with me
+### Connect with me
 
 <tr>
     <td>
