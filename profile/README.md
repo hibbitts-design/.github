@@ -51,4 +51,6 @@ Interested in financially supporting my open source work? I’d be honoured if y
 
 ![layout-10b](https://github.com/user-attachments/assets/74568348-39ec-4569-8bb0-ba9af8b28349)
 
+# **OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS**
+
 ![layout-10i](https://github.com/user-attachments/assets/7fcd8882-ab93-4fb4-bc69-79c98a365907)
