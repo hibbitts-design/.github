@@ -37,6 +37,7 @@ Interested in financially supporting my open source work? I’d be honoured if y
 ## Connect with me
 
 <div style="margin-top: 14px;></div>
+  <table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <a href="https://mastodon.social/@hibbittsdesign"><img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
@@ -45,6 +46,7 @@ Interested in financially supporting my open source work? I’d be honoured if y
       <a href="https://ca.linkedin.com/in/paulhibbitts/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Paul%20Hibbitts&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </td>
  </tr>
+</table>
 
 ![layout-10e](https://github.com/user-attachments/assets/7cd89de1-7221-42bf-a66a-e4dbec40ed48)
 
