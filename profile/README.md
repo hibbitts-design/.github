@@ -44,7 +44,7 @@ Interested in financially supporting my open source work? I’d be honoured if y
       <a href="https://ca.linkedin.com/in/paulhibbitts/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Paul%20Hibbitts&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </td>
  </tr>
-
+<br>
 ![layout-10e](https://github.com/user-attachments/assets/7cd89de1-7221-42bf-a66a-e4dbec40ed48)
 
 # OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS
