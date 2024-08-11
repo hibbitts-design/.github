@@ -44,9 +44,9 @@ Interested in financially supporting my open source work? I’d be honoured if y
       <a href="https://ca.linkedin.com/in/paulhibbitts/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Paul%20Hibbitts&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     </td>
  </tr>
- 
-![layout-10i](https://github.com/user-attachments/assets/7fcd8882-ab93-4fb4-bc69-79c98a365907)
 
 ![layout-10e](https://github.com/user-attachments/assets/7cd89de1-7221-42bf-a66a-e4dbec40ed48)
+
+![layout-10i](https://github.com/user-attachments/assets/7fcd8882-ab93-4fb4-bc69-79c98a365907)
 
 ![layout-10b](https://github.com/user-attachments/assets/74568348-39ec-4569-8bb0-ba9af8b28349)
