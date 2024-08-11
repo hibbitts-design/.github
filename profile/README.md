@@ -35,7 +35,7 @@ To help increase adoption and help fund my open source work, I offer professiona
 Interested in financially supporting my open source work? I’d be honoured if you pledge the same funds to another open source project of your choice.
 
 ## Connect with me
-
+<br>
 <tr>
     <td>
       <a href="https://mastodon.social/@hibbittsdesign"><img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
