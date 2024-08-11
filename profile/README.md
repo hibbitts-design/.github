@@ -38,6 +38,7 @@ Interested in financially supporting my open source work? I’d be honoured if y
 
 <tr>  
     <td>
+      &nbsp;
     </td>
 </tr>
 <tr>
