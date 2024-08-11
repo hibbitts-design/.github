@@ -2,7 +2,7 @@
 
 # Open Source Software to Empower Digitally Curious Open Educators and Publishers
 
-**Well, hello there 👋🏼**  
+**Hello there, fellow digital enthusiasts 👋🏼**  
 
 Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software is combined with a focus on the user experience of both authors and students.
 
