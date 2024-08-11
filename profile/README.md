@@ -47,6 +47,6 @@ Interested in financially supporting my open source work? I’d be honoured if y
  
 ![layout-10i](https://github.com/user-attachments/assets/7fcd8882-ab93-4fb4-bc69-79c98a365907)
 
-![layout-10-k](https://github.com/user-attachments/assets/8c0f8a7c-6d67-41cd-9eb1-06b4e4969df6)
+![layout-10e](https://github.com/user-attachments/assets/7cd89de1-7221-42bf-a66a-e4dbec40ed48)
 
 ![layout-10b](https://github.com/user-attachments/assets/74568348-39ec-4569-8bb0-ba9af8b28349)
