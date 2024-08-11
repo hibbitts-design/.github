@@ -36,13 +36,8 @@ Interested in financially supporting my open source work? I’d be honoured if y
 
 ## Connect with me
 
-<tr>  
-    <td>
-      &nbsp;
-    </td>
-</tr>
 <tr>
-    <td>
+    <td style="padding-top: 14px;">
       <a href="https://mastodon.social/@hibbittsdesign"><img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
     </td>
     <td>
