@@ -35,6 +35,7 @@ To help increase adoption and help fund my open source work, I offer professiona
 Interested in financially supporting my open source work? I’d be honoured if you pledge the same funds to another open source project of your choice.
 
 ## Connect with me
+
 <span style="margin-top: 14px;></span>
   <tr>
     <td>
