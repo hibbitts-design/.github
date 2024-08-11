@@ -18,7 +18,7 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
   - [Open Publishing Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
   - [Learn2 with GitSync](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
-- 🛟 **Sharing Online Courses:**
+- 🛟 **Sharing Online Course Designs:**
   - Hoping to assist teams and individual educators in creating better online experiences for their students, I am sharing my last highly successful offering of SFU CMPT-363 User Interface Design ([Canvas LMS site](https://canvas.sfu.ca/courses/69678) | [Standalone site](https://paulhibbitts.github.io/cmpt-363)), which was re-designed as an online and more scalable variation of the traditional 3rd-year face-to-face course
 
 - 💰 **Open Source Contributions:**
