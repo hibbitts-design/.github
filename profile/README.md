@@ -22,7 +22,7 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 
 🛟 **Online Course Design:**  
 
-To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://canvas.sfu.ca/courses/69678) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363).
+To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://canvas.sfu.ca/courses/69678) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with [Docsify](https://docsify.js.org).
 
 💰 **Open Source Contributions:**  
 
