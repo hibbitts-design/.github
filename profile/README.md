@@ -25,19 +25,19 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 
 To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://canvas.sfu.ca/courses/69678) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit).
 
-### 💰 **Open Source Contributions:
+### 💰 Open Source Contributions:
 
 I also support several related open-source projects, including [Mastodon](https://www.patreon.com/mastodon), [Docsify](https://opencollective.com/docsify), [Docsify-Themeable](https://github.com/sponsors/jhildenbiddle) and [Grav CMS](https://opencollective.com/grav).
 
-### ☕️ **Informational Meetups:
+### ☕️ Informational Meetups:
 
 As someone who has benefited from informational interviews very early in his career, I welcome similar requests for coffee meetups in #YVR when my extensive experience in higher education instruction, the craft of interaction design and professional consulting practices can be of value.
 
-### 💼 **Guest Lectures:
+### 💼 Guest Lectures:
 
 Are you teaching a UX, Web/Software design or publishing course in Vancouver/Burnaby/Surrey? I am offering [several possible guest lecture/discussion topics for local in-person classes](https://www.linkedin.com/posts/paulhibbitts_are-you-teaching-a-ux-websoftware-design-activity-7097259423617712129-AtVi) based on my open source experiences.
 
-### 🌱 **Always learning, always designing, always building
+### 🌱 Always learning, always designing, always building
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=paulhibbitts)](https://git.io/streak-stats)
 
