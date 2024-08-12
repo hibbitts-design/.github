@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/885d5aec-3a0f-40d6-bd52-55371dd4c1d7" alt="Large icons for Open, Empowered, and Publishing" title="Image created by Jason Toal of Same Page Studio">
+<img src="https://github.com/user-attachments/assets/885d5aec-3a0f-40d6-bd52-55371dd4c1d7" alt="Three abstract icons on a flowing, multi-coloured background. The first icon represents open, the second icon represents empowered, and the third icon represents publishing. title="Image created by Jason Toal of Same Page Studio">
 
 # Open Source Software to Empower Digitally Curious Open Educators and Publishers
 
