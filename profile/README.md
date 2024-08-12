@@ -1,4 +1,4 @@
-![Large icons for Open, Empowered, and Publishing - created by Jason Toal of Same Page Studio](https://github.com/user-attachments/assets/d1ce00fb-a8b8-4aa5-bfef-dae986473b14)
+<img src="https://github.com/user-attachments/assets/d1ce00fb-a8b8-4aa5-bfef-dae986473b14" alt="Large icons for Open, Empowered, and Publishing" title="Image created by Jason Toal of Same Page Studio">
 
 # Open Source Software to Empower Digitally Curious Open Educators and Publishers
 
