@@ -16,10 +16,10 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 
 🛠 **Grav CMS Skeleton Projects:**  
 
-- [Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub)
-- [Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
-- [Open Publishing Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
-- [Learn2 with GitSync](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
+- [Grav Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub)
+- [Grav Open MultiCourse Hub](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
+- [Grav Open Publishing Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
+- [Grav Learn2 with GitSync](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
 🛟 **Online Course Design:**  
 
