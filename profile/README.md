@@ -65,6 +65,8 @@ Interested in financially supporting my open source work? I’d be honoured if y
  </tr>
 </table>
 
+---
+
 ![layout-10e](https://github.com/user-attachments/assets/7cd89de1-7221-42bf-a66a-e4dbec40ed48)
 
 # OPEN SOURCE SOFTWARE TO EMPOWER DIGITALLY CURIOUS OPEN EDUCATORS AND PUBLISHERS
