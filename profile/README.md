@@ -14,7 +14,7 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open educators, OER publishers, and students
 - [Docsify-This.net](http://docsify-this.net/) project, along with the [Publishing with Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&maxLevel=4) guide, provides a quick way to render remote Markdown files without your own instance of Docsify
 
-🛠 **Grav CMS Projects:**  
+🛠 **Grav CMS Projects (actively maintained):**  
 
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
 - [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
