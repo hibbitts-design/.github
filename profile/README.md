@@ -7,7 +7,7 @@
 Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software is combined with a focus on the user experience of both authors and students.
 
 ## What’s happening these days?
-💻 **Current Projects:**  
+💻 **Current Docsify Projects:**  
 
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators
 - [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators
