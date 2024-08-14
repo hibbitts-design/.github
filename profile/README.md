@@ -2,7 +2,7 @@
 
 <h1>Open Source Software to Empower Digitally Curious Open Educators and&nbsp;Publishers</h1> 
 
-**Hello there, fellow digital enthusiasts 👋🏼**  
+### Hello there, fellow digital enthusiasts 👋🏼**  
 
 Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software is combined with a focus on the user experience of both authors and students.
 
