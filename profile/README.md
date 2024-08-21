@@ -25,7 +25,7 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 
 To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://canvas.sfu.ca/courses/69678) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit).
 
-### 🫶🏻 Open Source Contributions
+### 🤝 Open Source Contributions
 
 I also support several related open-source projects, including [Mastodon](https://www.patreon.com/mastodon), [Docsify](https://opencollective.com/docsify), [Docsify-Themeable](https://github.com/sponsors/jhildenbiddle) and [Grav CMS](https://opencollective.com/grav).
 
