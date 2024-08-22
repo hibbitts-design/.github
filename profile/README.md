@@ -8,7 +8,7 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 
 ## What’s happening these days?
 ### 💻 Docsify Projects (docsify.js.org)
-A low-barrier entry point to Markdown publishing.
+A low-barrier entry point to Markdown publishing, with no Web server required.
 
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators
 - [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators
@@ -16,7 +16,7 @@ A low-barrier entry point to Markdown publishing.
 - [Docsify-This.net](http://docsify-this.net/) project, along with the [Publishing with Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&maxLevel=4) guide, provides a quick way to render remote Markdown files without your own instance of Docsify
 
 ### 🛠 Grav CMS Projects (getgrav.org)
-A very customizable Markdown publishing platform.
+A very customizable Markdown publishing platform, featuring the Twig template language.
 
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
 - [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
