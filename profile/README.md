@@ -8,7 +8,7 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 
 ## What’s happening these days?
 ### 💻 Docsify Projects (docsify.js.org)
-A documentation-style platform for Markdown publishing that requires no Web server, making it accessible to everyone.
+A documentation-style platform for Markdown publishing that requires no Web server, making it accessible to a broader audience.
 
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators
 - [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators
