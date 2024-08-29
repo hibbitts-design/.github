@@ -11,7 +11,7 @@ Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source
 A documentation-style platform for Markdown publishing that requires no Web server, making it accessible to a broader audience.
 
 #### Docsify Web App
-- [Docsify-This.net](http://docsify-this.net/) for open publishers, educators, and digital content creators seeking a simple way to share open, publicly accessible Markdown content
+- [Docsify-This.net](http://docsify-this.net/) for publishers, educators, and digital content creators seeking a simple way to share open, publicly accessible Markdown content
 
 #### Docsify Starter Kits
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators
