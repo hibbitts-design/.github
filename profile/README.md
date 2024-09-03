@@ -40,7 +40,7 @@ As someone who has benefited from informational interviews very early in his car
 
 ### 💼 Guest Lectures
 
-Are you teaching a UX, Web/Software design or publishing course in Vancouver/Burnaby/Surrey? I am offering [several possible guest lecture/discussion topics for local in-person classes](https://www.linkedin.com/posts/paulhibbitts_are-you-teaching-a-ux-websoftware-design-activity-7097259423617712129-AtVi) based on my open source experiences.
+Are you teaching a UX, Web/Software design or publishing course in Vancouver/Burnaby/Surrey? I am offering [several possible guest lecture/discussion topics for local in-person classes](https://www.linkedin.com/posts/paulhibbitts_welcome-to-the-real-new-year-aka-the-activity-7236799787356803072-D1LQ) based on my open source experiences.
 
 ### 🌱 Always learning, always designing, always building
 
