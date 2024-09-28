@@ -4,7 +4,7 @@
 
 ### Hello there, fellow digital enthusiasts 👋🏼
 
-Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software is combined with a focus on the user experience of both authors and their readers.
+Welcome to HibbittsDesign.org, where a systems-oriented approach to open [source] software meets a deep focus on user experience of both authors and their readers.
 
 ## What’s happening these days?
 ### 💻 Docsify Projects (docsify.js.org)
