@@ -4,7 +4,7 @@
 
 ### Hello there, fellow digital enthusiasts 👋🏼
 
-Welcome to HibbittsDesign.org – where over 20 years of experience in software interaction design, UX consulting, and higher education converge to shape a systems-oriented approach to open-source software.
+Welcome to HibbittsDesign.org – where over two decades of experience in software interaction design, UX consulting, and higher education converge to shape a systems-oriented approach to open-source software.
 
 ## What’s happening these days?
 ### 💻 Docsify Projects (docsify.js.org)
