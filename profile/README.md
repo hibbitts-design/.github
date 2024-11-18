@@ -44,8 +44,6 @@ Are you teaching a UX, Web/Software design or publishing course in Vancouver/Bur
 
 ### 🌱 Always learning, always designing, always building
 
-[![GitHub Streak](https://github-readme-streak-stats-mxle4ohfm-paulhibbitts-projects.vercel.app/?user=paulhibbitts)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats-cyan-nine.vercel.app?user=paulhibbitts)](https://git.io/streak-stats)
 
 ## Services provided
