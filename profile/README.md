@@ -22,7 +22,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 #### Docsify Starter Kits
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators
 
-  Example Template Variations:
+- Example Template Variations:
     - [Light/Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark-mode-auto)
     - [Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
     - [SFU-branded Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu)
@@ -31,7 +31,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 
 - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open publishers and digital content creators
 
-  Example Template Variations:
+- Example Template Variations:
     - [Light/Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark-mode-auto)
     - [Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark)
     - [MultiLanguage Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
