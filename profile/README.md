@@ -12,6 +12,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 
 #### Docsify Web App
 - [Docsify-This.net](http://docsify-this.net/) for open publishers, educators, and those seeking a simple way to share publicly accessible Markdown content
+
 - Loadable Configurations of popular LMS content styles for Docsify-This:
   - [Brightspace Config](http://load-brightspace.docsify-this.net)
   - [Canvas Config](http://load-canvas.docsify-this.net)
