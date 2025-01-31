@@ -46,6 +46,7 @@ The following have been created using in-progress [Docsify v5 preview](https://d
 
   - Example Open Course Starter Kit variations:
     - [SFU-branded Colors Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-v2)
+    - [SFU-branded Colors Dark Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dark-v2)
     - [SFU-branded Colors Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dark-auto-v2)
     - [SFU-branded Colors Dual Visual Style Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2)
 
