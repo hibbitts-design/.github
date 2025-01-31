@@ -38,7 +38,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
       - [MultiLanguage Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
 
 ### ⚠️ Experimental Docsify Project Builds
-The following have been built using in-progress [Docsify v5 preview](https://docsify-preview-docsifyjs.vercel.app/))  
+The following have been created using in-progress [Docsify v5 preview](https://docsify-preview-docsifyjs.vercel.app/) builds.
 
 - [Docsify-This.net v2](https://preview-v2.docsify-this.net/)
   
