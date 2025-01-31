@@ -37,7 +37,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
       - [Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark)
       - [MultiLanguage Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
 
-#### ⚠️ v2 Preview Builds (built using [Docsify v5 preview builds](https://docsify-preview-docsifyjs.vercel.app/)) ⚠️
+### ⚠️ Docsify v5 Preview Projects (built using [Docsify v5 preview builds](https://docsify-preview-docsifyjs.vercel.app/))
 - [Docsify-This.net v2](https://preview-v2.docsify-this.net/)
 - [Docsify Open Course Starter Kit v2](https://hibbitts-design.github.io/preview-docsify-open-course-starter-kit-v2)
   - Example Open Course Starter Kit variations:
