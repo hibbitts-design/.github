@@ -37,6 +37,16 @@ A documentation-style platform for Markdown publishing that requires no Web serv
       - [Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark)
       - [MultiLanguage Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
 
+#### v2 Preview Builds (using Docsify v4 preview builds)
+- [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net/)
+- [Docsify Open Course Starter Kit v2](https://hibbitts-design.github.io/preview-docsify-open-course-starter-kit-v2)
+
+  - Example Open Course Starter Kit variations:
+        - [SFU-branded Theme Demo](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-v2)
+        - [SFU-branded Dual Visual Style Theme Demo](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2)
+
+- [Docsify Open Publishing Starter Kit v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-v2)
+
 ### 🛠 Grav CMS Projects (getgrav.org)
 A highly customizable Markdown publishing platform, powered by the versatile Twig template language.
 
