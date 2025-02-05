@@ -54,7 +54,7 @@ The following have been created using in-progress [Docsify v5 preview](https://d
 - [Docsify Open Publishing Starter Kit v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-v2)
 
   - Example Open Publishing Starter Kit variations:
-    - [Coverpage Demo](https://hibbitts-design.github.io/preview-demo-docsify-open-publishing-starter-kit-coverpage-v2)
+    - [Coverpage Demo](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-coverpage-v2)
 
 ### 🛠 Grav CMS Projects (getgrav.org)
 A highly customizable Markdown publishing platform, powered by the versatile Twig template language.
