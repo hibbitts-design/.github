@@ -33,6 +33,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open publishers and digital content creators
 
   - Example Open Publishing Starter Kit variations:
+      - [Coverpage Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-coverpage)
       - [Light/Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark-mode-auto)
       - [Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark)
       - [MultiLanguage Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
