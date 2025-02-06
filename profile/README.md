@@ -46,7 +46,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 - [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
 - [Grav Learn2 with GitSync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
-### ⚗️ Experimental Builds
+### ⚗️ Experimental Project Builds
 These experimental builds showcase the latest features and improvements in [Docsify v5](https://docsify-preview-docsifyjs.vercel.app/) previews and [Grav 1.8 Beta](https://getgrav.org/blog/grav-18-beta-released) releases. These pre-release versions are under development, and your feedback is welcome!
 
 #### Docsify v5 Demo Sites
