@@ -38,8 +38,18 @@ A documentation-style platform for Markdown publishing that requires no Web serv
       - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark)
       - [MultiLanguage](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
 
-### ⚗️ Experimental Docsify v5 Demo Sites
-The following have been created using in-progress [Docsify v5](https://docsify-preview-docsifyjs.vercel.app/) previews.
+### 🛠 Grav CMS Projects (getgrav.org)
+A highly customizable Markdown publishing platform, powered by the versatile Twig template language.
+
+- [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
+- [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
+- [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
+- [Grav Learn2 with GitSync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
+
+### ⚗️ Experimental Builds
+These experimental builds showcase the latest features and improvements in [Docsify v5](https://docsify-preview-docsifyjs.vercel.app/) previews and [Grav 1.8 Beta](https://getgrav.org/blog/grav-18-beta-released) releases. These pre-release versions are under development, and your feedback is welcome!
+
+#### Docsify v5 Demo Sites
 
 - [Docsify-This.net v2 Demo](https://preview-v2.docsify-this.net/)
   
@@ -56,15 +66,7 @@ The following have been created using in-progress [Docsify v5](https://docsify-p
   - Example Open Publishing Starter Kit variations:
     - [Coverpage with Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-coverpage-v2)
 
-### 🛠 Grav CMS Projects (getgrav.org)
-A highly customizable Markdown publishing platform, powered by the versatile Twig template language.
-
-- [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
-- [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
-- [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
-- [Grav Learn2 with GitSync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
-
-### ⚗️ Experimental Grav 1.8 Demo Sites
+#### Grav 1.8 Demo Sites
 The following have been created using in-progress [Grav 1.8 Betas](https://getgrav.org/blog/grav-18-beta-released).
 
 - [Grav Open Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
