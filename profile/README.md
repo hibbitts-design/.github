@@ -67,10 +67,10 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 ### ⚗️ Experimental Grav 1.8 Demo Sites
 The following have been created using in-progress Grav 1.8 Betas.
 
-- [Grav Open Course Hub Skeleton](https:https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
-- [Grav Open MultiCourse Hub Skeleton](https:https://test.hibbittsdesign.org/grav-skeleton-multicourse-hub-beta-1-8)
-- [Grav Open Publishing Space Skeleton](https:https://test.hibbittsdesign.org/grav-skeleton-open-publishing-beta-1-8)
-- [Grav Learn2 with GitSync Skeleton](https:https://test.hibbittsdesign.org/grav-skeleton-learn2-with-git-sync-beta-1-8)
+- [Grav Open Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
+- [Grav Open MultiCourse Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-multicourse-hub-beta-1-8)
+- [Grav Open Publishing Space Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-open-publishing-beta-1-8)
+- [Grav Learn2 with GitSync Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-learn2-with-git-sync-beta-1-8)
 
 ### 🛟 Online Course Design
 
