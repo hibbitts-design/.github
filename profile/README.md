@@ -71,7 +71,7 @@ These experimental builds showcase the latest features and improvements in [Docs
 - [Grav Open Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
 - [Grav Open MultiCourse Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-multicourse-hub-beta-1-8)
 - [Grav Open Publishing Space Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-open-publishing-beta-1-8)
-- [Grav Learn2 with GitSync Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-open-publishing-space-beta-1-8)
+- [Grav Learn2 with GitSync Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-learn2-with-git-sync-beta-1-8/)
 
 ### 🛟 Online Course Design
 
