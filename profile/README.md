@@ -39,7 +39,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
       - [MultiLanguage](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
 
 ### ⚗️ Experimental Docsify v5 Demo Sites
-The following have been created using in-progress [Docsify v5 preview](https://docsify-preview-docsifyjs.vercel.app/) builds.
+The following have been created using in-progress [Docsify v5](https://docsify-preview-docsifyjs.vercel.app/) previews.
 
 - [Docsify-This.net v2 Demo](https://preview-v2.docsify-this.net/)
   
@@ -65,7 +65,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 - [Grav Learn2 with GitSync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
 ### ⚗️ Experimental Grav 1.8 Demo Sites
-The following have been created using in-progress Grav 1.8 Betas.
+The following have been created using in-progress [Grav 1.8 Betas](https://getgrav.org/blog/grav-18-beta-released).
 
 - [Grav Open Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
 - [Grav Open MultiCourse Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-multicourse-hub-beta-1-8)
