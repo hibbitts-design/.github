@@ -23,20 +23,20 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators
 
   - Example Open Course Starter Kit variations:
-      - [Light/Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark-mode-auto)
-      - [Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
-      - [SFU-branded Colors Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu)
-      - [SFU-branded Colors Dual Visual Style Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-dual-visual-styling)
+      - [Light/Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark-mode-auto)
+      - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
+      - [SFU-branded Colors Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu)
+      - [SFU-branded Colors Dual Visual Style Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-dual-visual-styling)
 
 - [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators
 
 - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open publishers and digital content creators
 
   - Example Open Publishing Starter Kit variations:
-      - [Coverpage Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-coverpage)
-      - [Light/Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark-mode-auto)
-      - [Dark Theme Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark)
-      - [MultiLanguage Demo](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
+      - [Coverpage](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-coverpage)
+      - [Light/Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark-mode-auto)
+      - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark)
+      - [MultiLanguage](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
 
 ### ⚗️ Experimental Docsify v5 Demo Sites
 The following have been created using in-progress [Docsify v5 preview](https://docsify-preview-docsifyjs.vercel.app/) builds.
