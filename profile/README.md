@@ -67,7 +67,6 @@ These experimental builds showcase the latest features and improvements in [Docs
     - [Coverpage with Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-coverpage-v2)
 
 #### Grav 1.8 Demo Sites
-The following have been created using in-progress [Grav 1.8 Betas](https://getgrav.org/blog/grav-18-beta-released).
 
 - [Grav Open Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
 - [Grav Open MultiCourse Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-multicourse-hub-beta-1-8)
