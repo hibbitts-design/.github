@@ -64,6 +64,14 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 - [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
 - [Grav Learn2 with GitSync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
+### ⚗️ Experimental Grav 1.8 Demo Sites
+The following have been created using in-progress Grav 1.8 Betas.
+
+- [Grav Open Course Hub Skeleton](https:https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
+- [Grav Open MultiCourse Hub Skeleton](https:https://test.hibbittsdesign.org/grav-skeleton-multicourse-hub-beta-1-8)
+- [Grav Open Publishing Space Skeleton](https:https://test.hibbittsdesign.org/grav-skeleton-open-publishing-beta-1-8)
+- [Grav Learn2 with GitSync Skeleton](https:https://test.hibbittsdesign.org/grav-skeleton-learn2-with-git-sync-beta-1-8)
+
 ### 🛟 Online Course Design
 
 To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://canvas.sfu.ca/courses/69678) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit).
