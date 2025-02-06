@@ -61,7 +61,7 @@ These experimental builds showcase the latest features and improvements in [Docs
     - [SFU-branded Colors Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dark-auto-v2)
     - [SFU-branded Colors Dual Visual Style Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2)
 
-- [Docsify Open Publishing Starter Kit v2 Demohttps://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-v2)
+- [Docsify Open Publishing Starter Kit v2 Demo](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-v2)
 
   - Example Open Publishing Starter Kit variations:
     - [Coverpage with Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-coverpage-v2)
