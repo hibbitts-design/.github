@@ -8,7 +8,7 @@ Welcome to HibbittsDesign.org – where over two decades of experience in softwa
 
 ## What’s happening these days?
 ### 💻 Docsify Projects (docsify.js.org)
-A documentation-style platform for Markdown publishing that requires no Web server, making it accessible to a broader audience.
+A documentation-style platform for Markdown publishing that requires no Web server or build process, making it accessible to a broader audience.
 
 #### Docsify Web App
 - [Docsify-This.net](http://docsify-this.net/) for open publishers, educators, and those seeking a simple way to share publicly accessible Markdown content
