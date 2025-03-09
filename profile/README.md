@@ -85,10 +85,6 @@ I also support several related open-source projects, including [Mastodon](https:
 
 As someone who has benefited from informational interviews very early in his career, I welcome similar requests for coffee meetups in #YVR when my extensive experience in higher education instruction, the craft of interaction design and professional consulting practices can be of value.
 
-### 💼 Guest Lectures
-
-Are you teaching a UX, Web/Software design or publishing course in Vancouver/Burnaby/Surrey? I am offering [several possible guest lecture/discussion topics for local in-person classes](https://www.hibbittsdesign.org/Designing-and-Building-Small-Scale-Open-Source-Projects-Talks-10c0615470e080d492d3df8c3afecd4f) based on my open source experiences.
-
 ### 🌱 Always learning, always designing, always building
 
 [![GitHub Streak](https://github-readme-streak-stats-cyan-nine.vercel.app?user=paulhibbitts)](https://git.io/streak-stats)
