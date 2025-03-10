@@ -6,6 +6,10 @@
 
 Welcome to HibbittsDesign.org – where over two decades of experience in software interaction design, UX consulting, and higher education converge to shape a systems-oriented approach to open-source software.
 
+<details>
+
+<summary> Learn more about HibbittsDesign.org </summary>
+
 ## What’s happening these days?
 ### 💻 Docsify Projects (docsify.js.org)
 A documentation-style platform for Markdown publishing that requires no Web server or build process, making it accessible to a broader audience.
@@ -115,3 +119,5 @@ Interested in financially supporting my open source work? I’d be honoured if y
     </td>
  </tr>
 </table>
+
+</details>
