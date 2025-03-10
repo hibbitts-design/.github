@@ -8,7 +8,7 @@ Welcome to HibbittsDesign.org – where over two decades of experience in softwa
 
 <details>
 
-<summary> Explore HibbittsDesign.org: Projects, Services, and More </summary>
+<summary> <strong> Explore HibbittsDesign.org: Projects, Services, and More </strong> </summary>
 
 ## What’s happening these days?
 ### 💻 Docsify Projects (docsify.js.org)
