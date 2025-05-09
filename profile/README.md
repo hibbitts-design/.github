@@ -72,9 +72,9 @@ These experimental builds test and showcase the latest improvements in [Docsify 
 
 #### Docsify v5 Starter Kits
 
-- [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/preview-docsify-open-course-starter-kit-v2)
-- [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/preview-docsify-open-multicourse-starter-kit-v2)
-- [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/preview-docsify-open-publishing-starter-kit-v2)
+- [Docsify Open Course Starter Kit v2](https://github.com/hibbitts-design/preview-docsify-open-course-starter-kit-v2)
+- [Docsify Open MultiCourse Starter Kit v2](https://github.com/hibbitts-design/preview-docsify-open-multicourse-starter-kit-v2)
+- [Docsify Open Publishing Starter Kit v2](https://github.com/hibbitts-design/preview-docsify-open-publishing-starter-kit-v2)
   
 #### Grav 1.8 Demo Sites
 
