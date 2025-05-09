@@ -70,6 +70,12 @@ These experimental builds test and showcase the latest improvements in [Docsify 
   - Example Open Publishing Starter Kit variations:
     - [Coverpage with Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-coverpage-v2)
 
+#### Docsify v5 Starter Kits
+
+- [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/preview-docsify-open-course-starter-kit-v2)
+- [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/preview-docsify-open-multicourse-starter-kit-v2)
+- [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/preview-docsify-open-publishing-starter-kit-v2)
+  
 #### Grav 1.8 Demo Sites
 
 - [Grav Open Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
