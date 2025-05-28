@@ -29,8 +29,8 @@ A documentation-style platform for Markdown publishing that requires no Web serv
   - Example Open Course Starter Kit variations:
       - [Light/Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark-mode-auto)
       - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
-      - [SFU-branded Colors Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu) ([Canvas LMS styling for embedded pages](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2/?embedded=true))
-      - [SFU-branded Colors Dual Visual Style Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-dual-visual-styling)
+      - [SFU-branded Colors Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu)
+      - [SFU-branded Colors Dual Visual Style Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-dual-visual-styling)  ([Canvas LMS styling for embedded pages]([https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-dual-visual-styling/?embedded=true)
 
 - [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators managing multiple courses
 
@@ -63,7 +63,7 @@ These experimental builds test and showcase the latest improvements in [Docsify 
     - [SFU-branded Colors Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-v2)
     - [SFU-branded Colors Dark Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dark-v2)
     - [SFU-branded Colors Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dark-auto-v2)
-    - [SFU-branded Colors Dual Visual Style Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2)
+    - [SFU-branded Colors Dual Visual Style Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2) ([Canvas LMS styling for embedded pages](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2/?embedded=true)
 
 - [Docsify Open MultiCourse Starter Kit Demo v2](https://hibbitts-design.github.io/preview-docsify-open-multicourse-starter-kit-v2)
 - [Docsify Open Publishing Starter Kit Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-v2)
