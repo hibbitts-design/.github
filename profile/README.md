@@ -69,7 +69,7 @@ These experimental builds test and showcase the latest improvements in [Docsify 
 - [Docsify Open Publishing Starter Kit Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-v2)
 
   - Example Open Publishing Starter Kit variations:
-    - [Coverpage with Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-coverpage-v2)
+    - [Coverpage with Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-coverpage-dark-auto-v2)
 
 #### Docsify v5 Starter Kits
 
