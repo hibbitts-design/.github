@@ -30,7 +30,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
       - [Light/Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark-mode-auto)
       - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
       - [SFU-branded Colors Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu)
-      - [SFU-branded Colors Dual Visual Style Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-dual-visual-styling)  ([Canvas LMS styling for embedded pages](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-dual-visual-styling/?embedded=true))
+      - [SFU-branded Colors Dual Visual Style Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-dual-visual-styling)  ([Canvas LMS styling for embedded pages](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2/?embedded=true))
 
 - [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators managing multiple courses
 
