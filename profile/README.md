@@ -4,7 +4,7 @@
 
 ### Hello there, fellow digital enthusiasts 👋🏼
 
-> **✨ Latest Updates**
+> #### ✨ Latest Updates
 >
 > - **Docsify v5** release candidate is now available!  
 >   - 🔗 [preview.docsifyjs.org](https://preview.docsifyjs.org) 
