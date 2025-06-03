@@ -7,11 +7,11 @@
 > **✨ Latest Updates**
 >
 > - **Docsify v5** release candidate is now available!  
->   - Get a sneak peek at 🔗 https://preview.docsifyjs.org  
->   - 📋 [Read the release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.1)  
+>   - 🔗 [preview.docsifyjs.org](https://preview.docsifyjs.org) 
+>   - 📋 [release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.1)  
 >
 > - **Docsify-This v2** preview (built with Docsify v5) is also now live:  
->   - Try it out at 🔗 https://preview-v2.docsify-this.net
+>   - 🔗 [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net)
 
 Welcome to HibbittsDesign.org – where over two decades of experience in software interaction design, UX consulting, and higher education converge to shape a systems-oriented approach to open-source software.
 
