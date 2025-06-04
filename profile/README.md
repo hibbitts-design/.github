@@ -7,7 +7,8 @@
 > **✨ Latest Updates**
 >
 > - **Docsify v5** release candidate is now available!  
->   - 🔗 [preview.docsifyjs.org](https://preview.docsifyjs.org) 
+>   - 🔗 [preview.docsifyjs.org](https://preview.docsifyjs.org)
+>   - 🔗 [docsify template v5](https://github.com/hibbitts-design/docsify-template-v5)
 >   - 📋 [release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.1)  
 >
 > - **Docsify-This v2** preview (built with Docsify v5) is also now live:  
