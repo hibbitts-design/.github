@@ -87,9 +87,9 @@ These experimental builds test and showcase the latest improvements in [Docsify 
 - [Docsify Open MultiCourse Starter Kit v2](https://github.com/hibbitts-design/preview-docsify-open-multicourse-starter-kit-v2)
 - [Docsify Open Publishing Starter Kit v2](https://github.com/hibbitts-design/preview-docsify-open-publishing-starter-kit-v2)
 - [Docsify Open Blog Starter Kit v2](https://github.com/hibbitts-design/preview-demo-docsify-open-blog-starter-kit-v2)
-- [Demo Docsify Open Course Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-docsify-open-course-starter-kit-v2-docsify-v5)
-- [Demo Docsify Open Publishing Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-docsify-open-publishing-starter-kit-v2-docsify-v5)
-- [Docsify Open Blog Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-demo-docsify-open-blog-starter-kit-v2-docsify-v5)
+- [Demo Docsify Open Course Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-docsify-open-course-starter-kit-v2-docsify-v5-theme)
+- [Demo Docsify Open Publishing Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-docsify-open-publishing-starter-kit-v2-docsify-v5-theme)
+- [Docsify Open Blog Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-demo-docsify-open-blog-starter-kit-v2-docsify-v5-theme)
   
 #### Grav 1.8 Demo Sites
 
