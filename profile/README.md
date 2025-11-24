@@ -2,7 +2,7 @@
 
 <h1>Open-Source Software to Empower Digitally Curious Open Publishers, Educators, and&nbsp;Creators</h1> 
 
-### Hello there, fellow digital enthusiasts 👋🏼
+### Hello there, fellow digital publishers and educators 👋🏼
 
 > **✨ Latest Updates**
 >
