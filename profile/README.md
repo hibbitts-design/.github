@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/885d5aec-3a0f-40d6-bd52-55371dd4c1d7" alt="Three hand-drawn abstract icons on a flowing, multi-coloured background suggesting digital waves. The first icon represents 'open', the second icon represents 'capability', and the third icon represents 'publishing'." title="Image created by Jason Toal of Same Page Studio">
 
-<h1>Open-Source Publishing Tools for Educators, Publishers, and&nbsp;Creators</h1> 
+<h1>Open Digital Publishing Tools for Educators, Publishers, and&nbsp;Creators</h1> 
 
 ### Hello there, fellow educators and digital publishers 👋🏼
 
