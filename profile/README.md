@@ -115,8 +115,8 @@ As someone who has benefited from informational interviews very early in his car
 
 [![GitHub Streak](https://github-readme-streak-stats-cyan-nine.vercel.app?user=paulhibbitts)](https://git.io/streak-stats)
 
-## Services provided
-To help increase adoption and help fund my open source work, I offer professional services related to my [Docsify](https://docsify.js.org/#/) and [Grav CMS](https://getgrav.org/) projects to help open publishers, educators and others leverage Markdown software and workflows more effectively. Services include consulting, premium support subscriptions, workshops, and custom development. Sound of interest? Send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
+## Additional services provided
+While all my open-source tools are freely available for anyone to use and benefit from, I also offer professional services for teams or organizations seeking personalized support. Drawing on experience from over 140 software projects spanning 25 years of professional consulting, these services help create better outcomes and experiences with open content publishing. Sound of interest? [Contact me](https://www.hibbittsdesign.org/Contact-10d0615470e0807588b9c6254f0b6583) or send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
 ## Supporting my projects
 
