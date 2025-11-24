@@ -14,7 +14,7 @@
 > - **Docsify-This v2** preview (built with Docsify v5) is also now live:  
 >   - 🔗 [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net)
 
-Welcome to HibbittsDesign.org – where over two decades of experience in software interaction design, UX consulting, and higher education converge to shape a systems-oriented approach to open-source software.
+Welcome to  HibbittsDesign.org – where over two decades of experience in software interaction design, higher education, and founding one of Vancouver's earliest human-centered design consultancies converge to shape a systems-oriented approach to open-source software.
 
 <details>
 
