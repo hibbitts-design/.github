@@ -20,7 +20,7 @@ Built with a focus on outcomes over features, these tools strive to be both enjo
 
 <details>
 
-<summary> Read more about <strong> HibbittsDesign.org </strong> projects, services, and more </summary>
+<summary> Read more about <strong> HibbittsDesign.org </strong> projects, additional services, and more </summary>
 
 ## What’s happening these days?
 ### 💻 Docsify Projects (docsify.js.org)
