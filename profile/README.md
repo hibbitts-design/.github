@@ -16,7 +16,7 @@
 
 Welcome to HibbittsDesign.org – creating open-source software for educators and digital publishers, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
 
-Built with a focus on outcomes over features, these tools strive to be both enjoyable and valuable.
+Built with a focus on outcomes over features, these projects strive to be both enjoyable and valuable.
 
 <details>
 
