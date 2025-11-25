@@ -14,7 +14,9 @@
 > - **Docsify-This v2** preview (built with Docsify v5) is also now live:  
 >   - 🔗 [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net)
 
-Welcome to  HibbittsDesign.org – creating open-source software for educators and digital publishers, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
+Welcome to HibbittsDesign.org – creating open-source software for educators and digital publishers, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
+
+Built with a focus on outcomes over features, these tools strive to be both enjoyable and valuable.
 
 <details>
 
@@ -34,7 +36,8 @@ A documentation-style platform for Markdown publishing that requires no Web serv
     - [Sakai Config](http://load-sakai.docsify-this.net)
 
 #### Docsify Starter Kits
-- [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators
+- [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators. Best for users comfortable with GitHub or Codeberg basics, or willing to learn.
+
 
   - Example Open Course Starter Kit variations:
       - [Light/Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark-mode-auto)
@@ -53,7 +56,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
       - [MultiLanguage](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
 
 ### 🛠 Grav CMS Projects (getgrav.org)
-A highly customizable Markdown publishing platform, powered by the versatile Twig template language.
+A highly customizable Markdown publishing platform, powered by the versatile Twig template language. For digitally-savvy users comfortable with web hosting and the basics of GitHub.
 
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
 - [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
