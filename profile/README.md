@@ -36,8 +36,8 @@ A documentation-style platform for Markdown publishing that requires no Web serv
     - [Sakai Config](http://load-sakai.docsify-this.net)
 
   - Loadable configurations for presentation content styles with Docsify-This:
-    - [Basic Presentation](present.docsify-this.net)
-    - [Presentation with Docsify Sidebar for Navigation](present-nav.docsify-this.net)
+    - [Basic Presentation](http://present.docsify-this.net)
+    - [Presentation with Docsify Sidebar for Navigation](http://present-nav.docsify-this.net)
 
 #### Docsify Starter Kits
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators. Best for users comfortable with GitHub or Codeberg basics, or willing to learn.
