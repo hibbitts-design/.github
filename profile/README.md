@@ -27,7 +27,7 @@ Built with a focus on outcomes over features, these projects strive to be both e
 A documentation-style platform for Markdown publishing that requires no Web server or build process, making it accessible to a broader audience.
 
 #### Docsify Web App
-- [Docsify-This.net](http://docsify-this.net/) for open publishers, educators, and those seeking a simple way to share publicly accessible Markdown content
+- [Docsify-This.net](http://docsify-this.net/) for content publishers, educators, creators and groups seeking a simple way to turn Markdown files into styled websites.
 
   - Loadable configurations of popular LMS content styles for Docsify-This:
     - [Brightspace Config](http://load-brightspace.docsify-this.net)
