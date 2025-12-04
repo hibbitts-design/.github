@@ -40,7 +40,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
     - [Presentation with Docsify Sidebar for Navigation](http://present-nav.docsify-this.net)
 
 #### Docsify Starter Kits
-- [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators. Best for users comfortable with GitHub or Codeberg basics, or willing to learn.
+- [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators. Best for users comfortable with GitHub/Codeberg basics, or willing to learn.
 
 
   - Example Open Course Starter Kit variations:
