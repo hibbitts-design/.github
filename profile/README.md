@@ -1,8 +1,8 @@
 <img src="https://github.com/user-attachments/assets/885d5aec-3a0f-40d6-bd52-55371dd4c1d7" alt="Three hand-drawn abstract icons on a flowing, multi-coloured background suggesting digital waves. The first icon represents 'open-source', the second icon represents 'capability', and the third icon represents 'publishing'." title="Image created by Jason Toal of Same Page Studio">
 
-<h1>Open-Source Publishing Tools for Educators, Publishers, and Content &nbsp;Creators</h1> 
+<h1>Open-Source Publishing Tools for Educators, Digital Publishers, and Content&nbsp;Creators</h1> 
 
-### Hello there, fellow educators and digital publishers 👋🏼
+### Hello there, fellow educators, digital publishers, and content&nbsp;creators 👋🏼
 
 > **✨ Latest Updates**
 >
@@ -14,7 +14,7 @@
 > - **Docsify-This v2** preview (built with Docsify v5) is also now live:  
 >   - 🔗 [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net)
 
-Welcome to HibbittsDesign.org – creating open-source software for educators and digital publishers, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
+Welcome to HibbittsDesign.org – creating open-source software for educators, digital publishers and content creators, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
 
 Built with a focus on outcomes over features, these projects strive to be both enjoyable and valuable.
 
