@@ -9,12 +9,12 @@
 > - **Grav Helios Course Hub** preview is now available!  
 >   - 🔗 [github.com/hibbitts-design/grav-skeleton-helios-course-hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub)
 >
-> - **Docsify v5** release candidate is now available!  
+> - **Docsify v5** release candidate:  
 >   - 🔗 [preview.docsifyjs.org](https://preview.docsifyjs.org)
 >   - 🔗 [docsify template v5](https://github.com/hibbitts-design/docsify-template-v5)
 >   - 📋 [release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.1)  
 >
-> - **Docsify-This v2** preview (built with Docsify v5) is also now live:  
+> - **Docsify-This v2** preview (built with Docsify v5):  
 >   - 🔗 [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net)
 
 Welcome to HibbittsDesign.org – creating open-source software for educators, digital publishers and content creators, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
