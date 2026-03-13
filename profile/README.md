@@ -6,6 +6,9 @@
 
 > **✨ Latest Updates**
 >
+> - **Grav Helios Course Hub** preview is now available!  
+>   - 🔗 [github.com/hibbitts-design/grav-skeleton-helios-course-hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub)
+>
 > - **Docsify v5** release candidate is now available!  
 >   - 🔗 [preview.docsifyjs.org](https://preview.docsifyjs.org)
 >   - 🔗 [docsify template v5](https://github.com/hibbitts-design/docsify-template-v5)
@@ -42,7 +45,6 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 #### Docsify Starter Kits
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators. Best for users comfortable with GitHub/Codeberg basics, or willing to learn.
 
-
   - Example Open Course Starter Kit variations:
       - [Light/Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark-mode-auto)
       - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
@@ -62,6 +64,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 ### 🛠 Grav CMS Projects (getgrav.org)
 A highly customizable Markdown publishing platform, powered by the versatile Twig template language. For digitally-savvy users comfortable with web hosting and the basics of GitHub.
 
+- [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) — premium Helios theme required
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
 - [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
 - [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
