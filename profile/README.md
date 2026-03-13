@@ -6,7 +6,8 @@
 
 > **✨ Latest Updates**
 >
-> - **Grav Helios Course Hub** preview is now available!  
+> - **Grav Helios Course Hub** preview is now available!
+>   - 🔗 [demo.hibbittsdesign.org/grav-helios-course-hub](https://demo.hibbittsdesign.org/grav-helios-course-hub/)
 >   - 🔗 [github.com/hibbitts-design/grav-skeleton-helios-course-hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub)
 >
 > - **Docsify v5** release candidate:  
