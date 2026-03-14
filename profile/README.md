@@ -22,6 +22,8 @@ Welcome to HibbittsDesign.org – creating open-source software for educators, d
 
 Built with a focus on outcomes over features, these projects strive to be both enjoyable and valuable.
 
+All projects share a common foundation: platform-independent Markdown files — start simple with Docsify-This, self-host and customize further with the Docsify Starter Kits, or go full CMS including an admin panel and online editor with the Grav Projects.
+
 <details>
 
 <summary> Read more about <strong> HibbittsDesign.org </strong> projects, additional services, and more </summary>
