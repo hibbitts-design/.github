@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hibbitts-design/.github/refs/heads/main/layout-10f-3.png" alt="Three hand-drawn abstract icons on a flowing, multi-blue background suggesting digital waves. The first icon represents 'open-source', the second icon represents 'capability', and the third icon represents 'publishing'." title="Image created by Jason Toal of Same Page Studio">
+<img src="https://raw.githubusercontent.com/hibbitts-design/.github/refs/heads/main/layout-10f.png" alt="Three hand-drawn abstract icons on a flowing, multi-blue background suggesting digital waves. The first icon represents 'open-source', the second icon represents 'capability', and the third icon represents 'publishing'." title="Image created by Jason Toal of Same Page Studio">
 
 <h1>Open-Source Publishing Tools for Educators, Publishers, and&nbsp;Creators</h1> 
 
