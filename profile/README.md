@@ -10,7 +10,7 @@
 *Requires PHP web server and Grav Premium Helios Theme*
 
 **Docsify v5** release candidate:  
-🔗 [Visit](https://preview.docsifyjs.org) · 📦 [GitHub Template](https://github.com/hibbitts-design/docsify-template-v5) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.4)  
+🔗 [Visit](https://preview.docsifyjs.org) · 📦 [GitHub template](https://github.com/hibbitts-design/docsify-template-v5) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.4)  
 
 **Docsify-This v2** preview (built with Docsify v5):  
 🔗 [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net)
