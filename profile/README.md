@@ -9,7 +9,7 @@
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub)
 
 **Docsify v5** release candidate:  
-🔗 [Preview](https://preview.docsifyjs.org) · 📦 [Template](https://github.com/hibbitts-design/docsify-template-v5) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.1)  
+🔗 [Preview](https://preview.docsifyjs.org) · 📦 [Template](https://github.com/hibbitts-design/docsify-template-v5) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.4)  
 
 **Docsify-This v2** preview (built with Docsify v5):  
 🔗 [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net)
