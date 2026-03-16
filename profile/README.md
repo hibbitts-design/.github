@@ -5,7 +5,7 @@
 ## Hello there, fellow educators, digital publishers, and content&nbsp;creators 👋🏼
 ### Recent Highlights
 
-**Grav Helios Course Hub** preview (requires Grav Premium Helios Theme): <img alt="New" src="https://img.shields.io/badge/NEW-198653" height="14">  
+**Grav Helios Course Hub** preview <img alt="New" src="https://img.shields.io/badge/NEW-198653" height="14"> (requires Grav Premium Helios Theme):    
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest)
 
 **Docsify v5** release candidate:  
