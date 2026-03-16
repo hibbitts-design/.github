@@ -5,11 +5,12 @@
 ## Hello there, fellow educators, digital publishers, and content&nbsp;creators 👋🏼
 ### Recent Highlights
 
-**Grav Helios Course Hub** preview <img alt="New" src="https://img.shields.io/badge/NEW-198653" height="14"> (requires Grav Premium Helios Theme):    
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest)
+**Grav Helios Course Hub** preview: <img alt="New" src="https://img.shields.io/badge/NEW-198653" height="14">  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest)  
+*Requires PHP web server and Grav Premium Helios Theme*
 
 **Docsify v5** release candidate:  
-🔗 [Visit](https://preview.docsifyjs.org) · 📦 [Template](https://github.com/hibbitts-design/docsify-template-v5) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.4)  
+🔗 [Visit](https://preview.docsifyjs.org) · 📦 [GitHub Template](https://github.com/hibbitts-design/docsify-template-v5) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.4)  
 
 **Docsify-This v2** preview (built with Docsify v5):  
 🔗 [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net)
