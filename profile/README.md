@@ -3,7 +3,7 @@
 <h1>Open-Source Publishing Tools for Educators, Publishers, and&nbsp;Creators</h1> 
 
 ## Hello there, fellow educators, digital publishers, and content&nbsp;creators 👋🏼
-### Latest Updates
+### Latest Project Updates
 
 **Grav Helios Course Hub** <img alt="New" src="https://img.shields.io/badge/NEW-198653" height="14">  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub)
