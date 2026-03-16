@@ -6,7 +6,7 @@
 ### Recent Highlights
 
 **Grav Helios Course Hub** preview: <img alt="New" src="https://img.shields.io/badge/NEW-198653" height="14">  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub)
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest)
 
 **Docsify v5** release candidate:  
 🔗 [Visit](https://preview.docsifyjs.org) · 📦 [Template](https://github.com/hibbitts-design/docsify-template-v5) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.4)  
