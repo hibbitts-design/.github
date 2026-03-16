@@ -7,7 +7,7 @@
 
 **Grav Helios Course Hub** preview: <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest)  
-*Requires PHP web server and Grav Premium Helios Theme*
+*Requires PHP Web server and Grav Premium Helios Theme*
 
 **Docsify v5** release candidate:  
 🔗 [Visit](https://preview.docsifyjs.org) · 📦 [GitHub template](https://github.com/hibbitts-design/docsify-template-v5) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.4)  
