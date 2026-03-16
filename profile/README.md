@@ -6,7 +6,7 @@
 
 > **✨ Latest Updates**
 >
-> - **Grav Helios Course Hub** preview is now available!
+> - **Grav Helios Course Hub** <img alt="New" src="https://img.shields.io/badge/NEW-198653">
 >   - 🔗 [demo.hibbittsdesign.org/grav-helios-course-hub](https://demo.hibbittsdesign.org/grav-helios-course-hub/)
 >   - 📦 [GitHub project repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub)
 >
