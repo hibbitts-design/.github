@@ -9,14 +9,14 @@
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest)  
 *Requires PHP Web server and Grav Premium Helios Theme*
 
+**Open Education Conference 2026** draft submission:  <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">    
+🔗 [From Markdown to Open Web: Sharing OER with Docsify-This](https://docs.google.com/document/d/1tgb-a8s9cBgFTaC-d2KOpYJlcsw5Mssb9RbtEDnv4kk/edit?usp=sharing)
+
 **Docsify v5** release candidate:  
 🔗 [Visit](https://preview.docsifyjs.org) · 📦 [GitHub template](https://github.com/hibbitts-design/docsify-template-v5) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.4)  
 
 **Docsify-This v2** preview (built with Docsify v5):  
 🔗 [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net)
-
-**Open Education Conference 2026** draft submission:  <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">    
-🔗 [From Markdown to Open Web: Sharing OER with Docsify-This](https://docs.google.com/document/d/1tgb-a8s9cBgFTaC-d2KOpYJlcsw5Mssb9RbtEDnv4kk/edit?usp=sharing)
 
 Welcome to HibbittsDesign.org – creating open-source software for educators, digital publishers and content creators, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
 
