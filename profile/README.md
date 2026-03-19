@@ -15,6 +15,9 @@
 **Docsify-This v2** preview (built with Docsify v5):  
 🔗 [preview-v2.docsify-this.net](https://preview-v2.docsify-this.net)
 
+**Open Education Conference 2026** submission:  
+🔗 [From Markdown to Open Web: Sharing OER with Docsify-This](https://docs.google.com/document/d/1tgb-a8s9cBgFTaC-d2KOpYJlcsw5Mssb9RbtEDnv4kk/edit?usp=sharing)
+
 Welcome to HibbittsDesign.org – creating open-source software for educators, digital publishers and content creators, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
 
 Built with a focus on outcomes over features, these projects strive to be both enjoyable and valuable.
