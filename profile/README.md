@@ -67,7 +67,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 ### 🛠 Grav CMS Projects (getgrav.org)
 A highly customizable Markdown publishing platform, powered by the versatile Twig template language. For digitally-savvy users comfortable with web hosting and the basics of GitHub.
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > **Grav Helios Course Hub is the successor to the Open Course Hub and Open MultiCourse Hub projects.** [Grav Helios Course Hub on GitHub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub).
 
 - [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – preview, premium Grav Helios theme required
