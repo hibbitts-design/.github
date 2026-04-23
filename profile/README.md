@@ -5,7 +5,7 @@
 ## Hello there, fellow educators, digital publishers, and content&nbsp;creators 👋🏼
 ### Recent Highlights
 
-**Grav Helios Course Hub** preview: <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
+**Grav Helios Course Hub** just released: <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest)  
 *Requires PHP Web server and Grav Premium Helios Theme*
 
