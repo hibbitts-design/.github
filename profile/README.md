@@ -107,12 +107,13 @@ These experimental builds test and showcase the latest improvements in [Docsify 
 - [Demo Docsify Open Publishing Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-docsify-open-publishing-starter-kit-v2-docsify-v5-theme)
 - [Docsify Open Blog Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-demo-docsify-open-blog-starter-kit-v2-docsify-v5-theme)
   
-#### Grav 1.8 Demo Sites
+#### Grav 2.0 Beta Sites
 
-- [Grav Open Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
-- [Grav Open MultiCourse Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-multicourse-hub-beta-1-8)
-- [Grav Open Publishing Space Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-open-publishing-space-beta-1-8)
-- [Grav Learn2 with GitSync Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-learn2-with-git-sync-beta-1-8/)
+- [Grav Helios Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
+- [Grav Open Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-course-hub/)
+- [Grav Open MultiCourse Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-multicourse-hub/)
+- [Grav Open Publishing Space Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-open-publishing-space/)
+- [Grav Learn2 with GitSync Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-learn2-with-git-sync/)
 
 ### 🛟 Online Course Design
 
