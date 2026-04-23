@@ -69,7 +69,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 
 > **Grav Helios Course Hub is the successor to the Open Course Hub and Open MultiCourse Hub projects.** [Grav Helios Course Hub on GitHub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub).
 
-- [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – preview, premium Grav Helios theme required
+- [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – premium Grav Helios theme required
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
 - [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
 - [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
