@@ -109,7 +109,6 @@ These experimental builds test and showcase the latest improvements in [Docsify 
   
 #### Grav 2.0 Beta Sites
 
-- [Grav Helios Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-skeleton-course-hub-beta-1-8)
 - [Grav Open Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-course-hub/)
 - [Grav Open MultiCourse Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-multicourse-hub/)
 - [Grav Open Publishing Space Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-open-publishing-space/)
