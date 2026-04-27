@@ -10,7 +10,7 @@
 *Requires PHP Web server and Grav Premium Helios Theme*
 
 **Git Page Link Plugin** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
-📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · 🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · ⬇️ [Download](https://github.com/hibbitts-design/grav-plugin-git-page-link/releases/latest)  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-2-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://github.com/hibbitts-design/grav-plugin-git-page-link/releases/latest)  
 *Connects Grav pages to their content Git repository – for open authoring and OER workflows*
 
 **Open Education Conference 2026** draft submission:  <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">    
