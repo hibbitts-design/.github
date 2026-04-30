@@ -9,6 +9,10 @@
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest)  
 *Requires PHP Web server and Grav Premium Helios Theme*
 
+**Grav Helios Open Reader** preview <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
+🔗 [Demo](https://test.hibbittsdesign.org/grav-skeleton-helios-open-reader/)  
+*Requires PHP Web server and Grav Premium Helios Theme*
+
 **Git Page Link Plugin** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-2-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://github.com/hibbitts-design/grav-plugin-git-page-link/releases/latest)  
 *Connects Grav pages to their content Git repository – for open authoring and OER workflows*
