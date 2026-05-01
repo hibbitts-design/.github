@@ -10,7 +10,7 @@
 *Requires PHP Web server and Grav Premium Helios Theme*
 
 **Grav Helios Open Reader** preview <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-skeleton-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader/releases/latest)  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader/releases/latest)  
 *Requires PHP Web server and Grav Premium Helios Theme*
 
 **Git Page Link Plugin** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
