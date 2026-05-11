@@ -42,30 +42,24 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 
 #### Docsify Web App
 - [Docsify-This.net](http://docsify-this.net/) for content publishers, educators, creators and groups seeking a simple way to turn Markdown files into styled websites.
-
   - Loadable configurations of popular LMS content styles for Docsify-This:
     - [Brightspace Config](http://load-brightspace.docsify-this.net)
     - [Canvas Config](http://load-canvas.docsify-this.net)
     - [Moodle Config](http://load-moodle.docsify-this.net)
     - [Sakai Config](http://load-sakai.docsify-this.net)
-
   - Loadable configurations for presentation content styles with Docsify-This:
     - [Basic Presentation](http://present.docsify-this.net)
     - [Presentation with Docsify Sidebar for Navigation](http://present-nav.docsify-this.net)
 
 #### Docsify Starter Kits
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators. Best for users comfortable with GitHub/Codeberg basics, or willing to learn.
-
   - Example Open Course Starter Kit variations:
       - [Light/Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark-mode-auto)
       - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
       - [SFU-branded Colors Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu)
       - [SFU-branded Colors Dual Visual Style Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-dual-visual-styling)
-
 - [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators managing multiple courses
-
 - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open publishers and digital content creators
-
   - Example Open Publishing Starter Kit variations:
       - [Coverpage](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-coverpage)
       - [Light/Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark-mode-auto)
@@ -82,7 +76,11 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 - [Grav Helios Open Reader Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) – premium Grav Helios theme required
 - [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – premium Grav Helios theme required
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
+  - Example Open Course Hub variations:
+    - [Light/Dark Theme](https://demo.hibbittsdesign.org/grav-open-course-hub-dark-auto/)
 - [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
+    - Example Open MultiCourse Hub variations:
+      - [Light/Dark Theme](https://demo.hibbittsdesign.org/grav-open-multi-course-hub-dark-auto/)
 - [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
 - [Grav Learn2 with GitSync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
@@ -95,15 +93,12 @@ These experimental builds test and showcase the latest improvements in [Docsify 
 #### Docsify v5 Demo Sites
 
 - [Docsify-This.net v2 Demo](https://preview-v2.docsify-this.net/)
-  
 - [Docsify Open Course Starter Kit v2 Demo](https://hibbitts-design.github.io/preview-docsify-open-course-starter-kit-v2)
-
   - Example Open Course Starter Kit variations:
     - [SFU-branded Colors Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-v2)
     - [SFU-branded Colors Dark Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dark-v2)
     - [SFU-branded Colors Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dark-auto-v2)
     - [SFU-branded Colors Dual Visual Style Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2) ([Canvas LMS Styling Embed](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2/?embedded=true))
-
 - [Docsify Open MultiCourse Starter Kit Demo v2](https://hibbitts-design.github.io/preview-docsify-open-multicourse-starter-kit-v2)
 - [Docsify Open Publishing Starter Kit Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-v2)
 
