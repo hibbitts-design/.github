@@ -88,7 +88,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 - [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows
 
 ### ⚗️ Experimental Project Builds
-These experimental builds test and showcase the latest improvements in [Docsify v5](https://docsify-preview-docsifyjs.vercel.app/) release candidates and [Grav 1.8 Beta](https://getgrav.org/blog/grav-18-beta-released) releases. These pre-release versions are under development, and your feedback is welcome!
+These experimental builds test and showcase the latest improvements in [Docsify v5](https://docsify-preview-docsifyjs.vercel.app/) release candidates and [Grav 2.0 RC](https://getgrav.org/blog/grav-18-beta-released) releases. These pre-release versions are under development, and your feedback is welcome!
 
 #### Docsify v5 Demo Sites
 
@@ -115,7 +115,7 @@ These experimental builds test and showcase the latest improvements in [Docsify 
 - [Demo Docsify Open Publishing Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-docsify-open-publishing-starter-kit-v2-docsify-v5-theme)
 - [Docsify Open Blog Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-demo-docsify-open-blog-starter-kit-v2-docsify-v5-theme)
   
-#### Grav 2.0 Beta Sites
+#### Grav 2.0 RC Sites
 
 - [Grav Helios Open Reader Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-helios-open-reader/)
 - [Grav Helios Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-helios-course-hub/)
