@@ -79,7 +79,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
     - [LLMs.txt Support](https://demo.hibbittsdesign.org/grav-helios-open-reader-llms)
 - [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – premium Grav Helios theme required
   - Example Helios Course Hub variations:
-    - [Single Course](https://demo.hibbittsdesign.org/grav-helios-single-course-hub/)
+    - [Single Course](https://demo.hibbittsdesign.org/grav-helios-single-course-hub/cpt-363-1/home)
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
   - Example Open Course Hub variations:
     - [Light/Dark Theme](https://demo.hibbittsdesign.org/grav-open-course-hub-dark-auto/)
