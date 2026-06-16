@@ -17,9 +17,6 @@
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-2-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://github.com/hibbitts-design/grav-plugin-git-page-link/releases/latest)  
 *Connects Grav pages to their content Git repository – for open authoring and OER workflows*
 
-**Open Education Conference 2026** draft submission:  <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">    
-🔗 [From Markdown to Open Web: Sharing OER with Docsify-This](https://docs.google.com/document/d/1tgb-a8s9cBgFTaC-d2KOpYJlcsw5Mssb9RbtEDnv4kk/edit?usp=sharing)
-
 **Docsify v5** release candidate:  
 🔗 [Visit](https://preview.docsifyjs.org) · 📦 [GitHub template](https://github.com/hibbitts-design/docsify-template-v5) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0-rc.4)  
 
