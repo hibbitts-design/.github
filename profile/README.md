@@ -17,10 +17,10 @@
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-2-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://github.com/hibbitts-design/grav-plugin-git-page-link/releases/latest)  
 *Connects Grav pages to their content Git repository – for open authoring and OER workflows*
 
-**Docsify v5** 
+**Docsify v5** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
 🔗 [Visit](https://docsify.js.org/) · 📦 [GitHub template](https://github.com/docsifyjs/docsify-template) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0) 
 
-**Docsify-This v2** (built with Docsify v5):  
+**Docsify-This v2** (built with Docsify v5) <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">   
 🔗 [docsify-this.net](https://docsify-this.net)
 
 Welcome to HibbittsDesign.org – creating open-source software for educators, digital publishers and content creators, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
