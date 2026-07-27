@@ -5,23 +5,23 @@
 ## Hello there, fellow educators, digital publishers, and content&nbsp;creators 👋🏼
 ### Recent Highlights
 
-**Grav Helios Course Hub** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest) · ⬇️ [Grav 2 Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest/download/grav-2-skeleton-helios-course-hub.zip)    
-*Requires PHP Web server and Grav Premium Helios Theme*
-
-**Grav Helios Open Reader** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader/releases/latest) · ⬇️ [Grav 2 Download](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader/releases/latest/download/grav-2-skeleton-helios-open-reader.zip)  
-*Requires PHP Web server and Grav Premium Helios Theme*
-
-**Git Page Link Plugin** preview <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-2-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://github.com/hibbitts-design/grav-plugin-git-page-link/releases/latest)  
-*Connects Grav pages to their content Git repository – for open authoring and OER workflows*
-
 **Docsify v5** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
 🔗 [Visit](https://docsify.js.org/) · 📦 [GitHub template](https://github.com/docsifyjs/docsify-template) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0) 
 
 **Docsify-This v2** (built with Docsify v5) <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">   
 🔗 [docsify-this.net](https://docsify-this.net)
+
+**Grav Helios Course Hub**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest) · ⬇️ [Grav 2 Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest/download/grav-2-skeleton-helios-course-hub.zip)    
+*Requires PHP Web server and Grav Premium Helios Theme*
+
+**Grav Helios Open Reader**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader/releases/latest) · ⬇️ [Grav 2 Download](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader/releases/latest/download/grav-2-skeleton-helios-open-reader.zip)  
+*Requires PHP Web server and Grav Premium Helios Theme*
+
+**Git Page Link Plugin**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-2-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://github.com/hibbitts-design/grav-plugin-git-page-link/releases/latest)  
+*Connects Grav pages to their content Git repository – for open authoring and OER workflows*
 
 Welcome to HibbittsDesign.org – creating open-source software for educators, digital publishers and content creators, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
 
