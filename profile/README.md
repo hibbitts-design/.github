@@ -60,14 +60,14 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 - [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators managing multiple courses
   - Example Open MultiCourse Starter Kit variations:
       - [Docsify v5 Theme](https://github.com/hibbitts-design/demo-docsify-open-multicourse-starter-kit-docsify-v5-theme)
-      - [Light/Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark-mode-auto)
-      - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
+      - [Cards](https://github.com/hibbitts-design/demo-docsify-open-multicourse-starter-kit-cards)
+      - [Docsify v5 Theme Cards](https://github.com/hibbitts-design/demo-docsify-open-multicourse-starter-kit-cards-docsify-v5-theme)
 - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open publishers and digital content creators
   - Example Open Publishing Starter Kit variations:
-      - [Docsify v5 Theme](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-docsify-v5-theme)
       - [Coverpage](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-coverpage)
-      - [Light/Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark-mode-auto)
-      - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-dark)
+      - [Docsify v5 Theme](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-docsify-v5-theme)
+      - [Blog](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-blog)
+      - [Blog Docsify v5 Theme](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-blog-docsify-v5-theme)
       - [MultiLanguage](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multilanguage)
 
 ### 🛠 Grav CMS Projects (getgrav.org)
