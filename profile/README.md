@@ -51,13 +51,12 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 #### Docsify Starter Kits
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators. Best for users comfortable with GitHub/Codeberg basics, or willing to learn.
   - Example Open Course Starter Kit variations:
-      - [Docsify v5 Theme](https://hibbitts-design.github.io/demo-docsify-open-course-starter-kit-local-docsify-v5-theme)
+      - [Docsify v5 Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-local-docsify-v5-theme)
       - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
       - [SFU-branded Colors Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-styling)
       - [SFU-branded Colors Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-styling-dark)
       - [SFU-branded Colors Dark Theme Auto](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-styling-dark)
       - [SFU-branded Colors Dual Visual Style Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dual-sfu-styling)
-      - [SFU-branded Colors Dual Visual Style Theme Embedded](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dual-sfu-styling?embedded=true)
 - [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators managing multiple courses
   - Example Open MultiCourse Starter Kit variations:
       - [Docsify v5 Theme](https://github.com/hibbitts-design/demo-docsify-open-multicourse-starter-kit-docsify-v5-theme)
