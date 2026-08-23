@@ -2,7 +2,8 @@
 
 <h1>Open-Source Publishing Tools for Educators, Publishers, and&nbsp;Creators</h1> 
 
-## Hello there, fellow educators, digital publishers, and content&nbsp;creators 👋🏼
+## Hello there, and welcome to open publishing 👋🏼
+
 ### Recent Highlights
 
 **Docsify v5** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
@@ -75,7 +76,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 
 #### Grav Skeleton Packages
 
-> **Grav Helios Course Hub is the successor to the Open Course Hub and Open MultiCourse Hub projects.** [Grav Helios Course Hub on GitHub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub).
+> **Grav Helios Course Hub is the premium counterpart to the free Open Course Hub and Open MultiCourse Hub projects.** [Grav Helios Course Hub on GitHub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub).
 
 - [Grav Helios Open Reader Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) – premium Grav Helios theme required
   - Example Helios Open Reader variations:
