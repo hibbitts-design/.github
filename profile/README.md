@@ -23,11 +23,11 @@
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-2-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://github.com/hibbitts-design/grav-plugin-git-page-link/releases/latest)  
 *Connects Grav pages to their content Git repository – for open authoring and OER workflows*
 
-Welcome to HibbittsDesign.org – creating open-source software for educators, digital publishers and content creators, informed by over 25 years of experience in software interaction design, UX consulting, and higher education.
+HibbittsDesign.org creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
 
 Built with a focus on outcomes over features, these projects strive to be both enjoyable and valuable.
 
-All projects share a common foundation: open, portable, and constraint-free Markdown files – start simple with Docsify-This, self-host and customize further with the Docsify Starter Kits, or go to a complete publishing platform with an admin panel and online editor via the Grav CMS Projects. Easy to start with, easy to switch between, and easy to leave if your needs change.
+All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS via the Grav Open Source Projects (free) or the Grav Premium Helios Ecosystem (premium theme). Easy to start with, easy to switch between, and easy to leave if your needs change.
 
 <details>
 
