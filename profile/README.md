@@ -24,7 +24,7 @@
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-2-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://github.com/hibbitts-design/grav-plugin-git-page-link/releases/latest)  
 *Connects Grav pages to their content Git repository – for open authoring and OER workflows*
 
-**HibbittsDesign.org** creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
+**HibbittsDesign.org** creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators, and supports the wider Markdown publishing community – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
 
 Built with a focus on outcomes over features, these projects strive to be both enjoyable and valuable.
 
