@@ -144,7 +144,7 @@ I also support several related open-source projects, including [Mastodon](https:
 
 ### ☕️ Informational Meetups
 
-As someone who has benefited from informational interviews very early in his career, I welcome similar requests for coffee meetups in #YVR when my extensive experience in higher education instruction, the craft of interaction design and professional consulting practices can be of value.
+Having benefited from informational interviews early in my career, I welcome similar requests for coffee meetups in #YVR when my extensive experience in higher education instruction, the craft of interaction design, and professional consulting practices can be of value.
 
 ### 🌱 Always learning, always designing, always building
 
