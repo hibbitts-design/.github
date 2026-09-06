@@ -10,7 +10,8 @@
 🔗 [Visit](https://docsify.js.org/) · 📦 [GitHub template](https://github.com/docsifyjs/docsify-template) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0) 
 
 **Docsify-This v2** (built with Docsify v5) <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">   
-🔗 [docsify-this.net](https://docsify-this.net)
+🔗 [docsify-this.net](https://docsify-this.net)  
+*🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
 **Grav Helios Course Hub**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)    
@@ -24,11 +25,17 @@
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
 *Connects Grav pages to their content Git repository – for open authoring and OER workflows*
 
+**Free Course Conversion Tools** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
+🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · 🔗 [Grav Helios Cartridge Converter](https://helios-common-cartridge-converter.hibbittsdesign.org/) · 🔗 [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
+*Import an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader*
+
 **HibbittsDesign.org** creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators, and supports the wider Markdown publishing community – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
 
 Built with a focus on outcomes over features, these projects strive to be both enjoyable and valuable.
 
 All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS via the Grav Open Source Projects (free) or the Grav Premium Helios Ecosystem (premium theme). Easy to start with, easy to switch between, and easy to leave if your needs change.
+
+See what [educators and users are saying](https://hibbittsdesign.org/testimonials.html) about these projects.
 
 <details>
 
@@ -114,7 +121,7 @@ Having benefited from informational interviews early in my career, I welcome sim
 [![GitHub Streak](https://github-readme-streak-stats-cyan-nine.vercel.app?user=paulhibbitts)](https://git.io/streak-stats)
 
 ## Additional services provided
-While all my open-source tools are freely available for anyone to use and benefit from, I also offer professional services for teams or organizations seeking personalized support. Drawing on experience from over 140 software projects spanning 25 years of professional consulting, these services help create better outcomes and experiences with open content publishing. Sound of interest? [Contact me](https://hibbittsdesign.org/contact.html) or send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
+While all my open-source tools are freely available for anyone to use and benefit from, I also offer professional services for teams or organizations seeking personalized support. Drawing on experience from over 140 software projects spanning 25 years of professional consulting, these services help create better outcomes and experiences with open content publishing. See the [Services page](https://hibbittsdesign.org/services.html) for details, or [Contact me](https://hibbittsdesign.org/contact.html) or send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
 ## Supporting my projects
 
