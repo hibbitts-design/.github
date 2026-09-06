@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/hibbitts-design/.github/refs/heads/main/layout-10f.png" alt="Three hand-drawn abstract icons on a flowing, multi-blue background suggesting digital waves. The first icon represents 'open-source', the second icon represents 'capability', and the third icon represents 'publishing'." title="Image created by Jason Toal of Same Page Studio">
 
-<h1>Open-Source Publishing Tools for Educators, Publishers, and&nbsp;Creators</h1> 
+<h1>Open-Source Markdown &amp; Grav Publishing Tools for Educators, Publishers, and&nbsp;Creators</h1> 
 
 ## Hello there, and welcome to open publishing 👋🏼
 
@@ -76,15 +76,15 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 
 #### Grav Skeleton Packages
 
-> **Grav Helios Course Hub is the premium counterpart to the free Open Course Hub and Open MultiCourse Hub projects.** [Grav Helios Course Hub on GitHub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub).
+> **Grav Helios Course Hub and Grav Helios Open Reader are the premium counterparts to the free Grav skeleton projects below, built on the paid Grav Premium Helios theme.** [Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader)
 
+- [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – premium Grav Helios theme required
+  - Example Helios Course Hub variations:
+    - [Single Course](https://demo.hibbittsdesign.org/grav-helios-single-course-hub/cpt-363-1/home)
 - [Grav Helios Open Reader Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) – premium Grav Helios theme required
   - Example Helios Open Reader variations:
     - [Sections with Parts](https://demo.hibbittsdesign.org/grav-helios-open-reader-parts)
     - [LLMs.txt Support](https://demo.hibbittsdesign.org/grav-helios-open-reader-llms)
-- [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – premium Grav Helios theme required
-  - Example Helios Course Hub variations:
-    - [Single Course](https://demo.hibbittsdesign.org/grav-helios-single-course-hub/cpt-363-1/home)
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
   - Example Open Course Hub variations:
     - [Light/Dark Theme](https://demo.hibbittsdesign.org/grav-open-course-hub-dark-auto/)
@@ -99,7 +99,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 
 ### 🛟 Online Course Design
 
-To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://sfu.instructure.com/courses/2602) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit).
+To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://sfu.instructure.com/courses/2602) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit), as well as an earlier [Grav CMS course hub](https://opencoursehub.cs.sfu.ca/paulh/cmpt-363/).
 
 ### 🙏🏼 Open Source Contributions
 
