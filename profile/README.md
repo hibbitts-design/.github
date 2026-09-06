@@ -13,11 +13,11 @@
 🔗 [docsify-this.net](https://docsify-this.net)
 
 **Grav Helios Course Hub**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub) · ⬇️ [Grav 1.7 Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest/download/grav-skeleton-helios-course-hub-1.7.zip)    
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub) · ⬇️ [Grav 2.0 Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest/download/grav-skeleton-helios-course-hub.zip)    
 *Requires PHP Web server and Grav Premium Helios Theme*
 
 **Grav Helios Open Reader**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader) · ⬇️ [Grav 1.7 Download](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader/releases/latest/download/grav-skeleton-helios-open-reader-1.7.zip)  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader) · ⬇️ [Grav 2.0 Download](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader/releases/latest/download/grav-skeleton-helios-open-reader.zip)  
 *Requires PHP Web server and Grav Premium Helios Theme*
 
 **Git Page Link Plugin**  
