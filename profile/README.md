@@ -21,7 +21,7 @@
 *Requires PHP Web server and Grav Premium Helios Theme*
 
 **Git Page Link Plugin**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-2-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
 *Connects Grav pages to their content Git repository – for open authoring and OER workflows*
 
 **HibbittsDesign.org** creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators, and supports the wider Markdown publishing community – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
@@ -99,7 +99,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 
 ### 🛟 Online Course Design
 
-To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://canvas-old.sfu.ca/courses/69678) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit).
+To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://sfu.instructure.com/courses/2602) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit).
 
 ### 🙏🏼 Open Source Contributions
 
