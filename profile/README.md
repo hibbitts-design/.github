@@ -13,20 +13,8 @@
 🔗 [docsify-this.net](https://docsify-this.net)  
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
-**Grav Helios Course Hub**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)    
-*Requires PHP Web server and Grav Premium Helios Theme*
-
-**Grav Helios Open Reader**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
-*Requires PHP Web server and Grav Premium Helios Theme*
-
-**Git Page Link Plugin**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
-*Connects Grav pages to their content Git repository – for open authoring and OER workflows*
-
 **Free Course Conversion Tools** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
-🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · 🔗 [Grav Helios Cartridge Converter](https://helios-common-cartridge-converter.hibbittsdesign.org/) · 🔗 [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
+🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Helios Cartridge Converter](https://helios-common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
 *Import an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader*
 
 **HibbittsDesign.org** creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators, and supports the wider Markdown publishing community – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
@@ -85,10 +73,10 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 
 > **Grav Helios Course Hub and Grav Helios Open Reader are the premium counterparts to the free Grav skeleton projects below, built on the paid Grav Premium Helios theme.** [Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader)
 
-- [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – premium Grav Helios theme required
+- [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – premium Grav Helios theme required · [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)
   - Example Helios Course Hub variations:
     - [Single Course](https://demo.hibbittsdesign.org/grav-helios-single-course-hub/cpt-363-1/home)
-- [Grav Helios Open Reader Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) – premium Grav Helios theme required
+- [Grav Helios Open Reader Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) – premium Grav Helios theme required · [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)
   - Example Helios Open Reader variations:
     - [Sections with Parts](https://demo.hibbittsdesign.org/grav-helios-open-reader-parts)
     - [LLMs.txt Support](https://demo.hibbittsdesign.org/grav-helios-open-reader-llms)
@@ -102,7 +90,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 - [Grav Learn2 with Git Sync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
 #### Grav Plugins
-- [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows
+- [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows · [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · [Download](https://getgrav.org/downloads/plugins#git-page-link)
 
 ### 🛟 Online Course Design
 
