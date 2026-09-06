@@ -13,11 +13,11 @@
 🔗 [docsify-this.net](https://docsify-this.net)
 
 **Grav Helios Course Hub**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub) · ⬇️ [Grav 1.7 Download](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub/releases/latest/download/grav-skeleton-helios-course-hub-1.7.zip)    
 *Requires PHP Web server and Grav Premium Helios Theme*
 
 **Grav Helios Open Reader**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader) · ⬇️ [Grav 1.7 Download](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader/releases/latest/download/grav-skeleton-helios-open-reader-1.7.zip)  
 *Requires PHP Web server and Grav Premium Helios Theme*
 
 **Git Page Link Plugin**  
@@ -92,7 +92,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
     - Example Open MultiCourse Hub variations:
       - [Light/Dark Theme](https://demo.hibbittsdesign.org/grav-open-multi-course-hub-dark-auto/)
 - [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
-- [Grav Learn2 with GitSync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
+- [Grav Learn2 with Git Sync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
 #### Grav Plugins
 - [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows
@@ -114,7 +114,7 @@ Having benefited from informational interviews early in my career, I welcome sim
 [![GitHub Streak](https://github-readme-streak-stats-cyan-nine.vercel.app?user=paulhibbitts)](https://git.io/streak-stats)
 
 ## Additional services provided
-While all my open-source tools are freely available for anyone to use and benefit from, I also offer professional services for teams or organizations seeking personalized support. Drawing on experience from over 140 software projects spanning 25 years of professional consulting, these services help create better outcomes and experiences with open content publishing. Sound of interest? [Contact me](https://www.hibbittsdesign.org/Contact-10d0615470e0807588b9c6254f0b6583) or send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
+While all my open-source tools are freely available for anyone to use and benefit from, I also offer professional services for teams or organizations seeking personalized support. Drawing on experience from over 140 software projects spanning 25 years of professional consulting, these services help create better outcomes and experiences with open content publishing. Sound of interest? [Contact me](https://hibbittsdesign.org/contact.html) or send a note to [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org).
 
 ## Supporting my projects
 
