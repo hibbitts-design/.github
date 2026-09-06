@@ -97,43 +97,6 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 #### Grav Plugins
 - [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows
 
-### ⚗️ Experimental Project Builds
-These experimental builds test and showcase the latest improvements in [Docsify v5](https://docsify-preview-docsifyjs.vercel.app/) release candidates and [Grav 2.0 RC](https://getgrav.org/blog/grav-2-rc-released) releases. These pre-release versions are under development, and your feedback is welcome!
-
-#### Docsify v5 Demo Sites
-
-- [Docsify-This.net v2 Demo](https://preview-v2.docsify-this.net/)
-- [Docsify Open Course Starter Kit v2 Demo](https://hibbitts-design.github.io/preview-docsify-open-course-starter-kit-v2)
-  - Example Open Course Starter Kit variations:
-    - [SFU-branded Colors Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-v2)
-    - [SFU-branded Colors Dark Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dark-v2)
-    - [SFU-branded Colors Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dark-auto-v2)
-    - [SFU-branded Colors Dual Visual Style Theme Demo v2](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2) ([Canvas LMS Styling Embed](https://hibbitts-design.github.io/preview-demo-docsify-open-course-starter-kit-sfu-dual-visual-styling-v2/?embedded=true))
-- [Docsify Open MultiCourse Starter Kit Demo v2](https://hibbitts-design.github.io/preview-docsify-open-multicourse-starter-kit-v2)
-- [Docsify Open Publishing Starter Kit Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-v2)
-  - Example Open Publishing Starter Kit variations:
-    - [Coverpage with Light/Dark Theme Demo v2](https://hibbitts-design.github.io/preview-docsify-open-publishing-starter-kit-coverpage-dark-auto-v2)
-
-#### Docsify v5 Starter Kits
-
-- [Docsify Open Course Starter Kit v2](https://github.com/hibbitts-design/preview-docsify-open-course-starter-kit-v2)
-- [Docsify Open MultiCourse Starter Kit v2](https://github.com/hibbitts-design/preview-docsify-open-multicourse-starter-kit-v2)
-- [Docsify Open MultiCourse Starter Kit v2 Cards](https://github.com/hibbitts-design/preview-demo-docsify-open-multicourse-starter-kit-cards-v2)
-- [Docsify Open Publishing Starter Kit v2](https://github.com/hibbitts-design/preview-docsify-open-publishing-starter-kit-v2)
-- [Docsify Open Blog Starter Kit v2](https://github.com/hibbitts-design/preview-demo-docsify-open-blog-starter-kit-v2)
-- [Demo Docsify Open Course Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-docsify-open-course-starter-kit-v2-docsify-v5-theme)
-- [Demo Docsify Open Publishing Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-docsify-open-publishing-starter-kit-v2-docsify-v5-theme)
-- [Docsify Open Blog Starter Kit v2 Docsify v5 Core Theme](https://github.com/hibbitts-design/preview-demo-docsify-open-blog-starter-kit-v2-docsify-v5-theme)
-  
-#### Grav 2.0 RC Sites
-
-- [Grav Helios Open Reader Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-helios-open-reader/)
-- [Grav Helios Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-helios-course-hub/)
-- [Grav Open Course Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-course-hub/)
-- [Grav Open MultiCourse Hub Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-multicourse-hub/)
-- [Grav Open Publishing Space Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-open-publishing-space/)
-- [Grav Learn2 with GitSync Skeleton Demo](https://test.hibbittsdesign.org/grav-2-skeleton-learn2-with-git-sync/)
-
 ### 🛟 Online Course Design
 
 To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://canvas-old.sfu.ca/courses/69678) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit).
