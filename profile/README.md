@@ -6,9 +6,6 @@
 
 ### Recent Highlights
 
-**Docsify v5** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
-🔗 [Visit](https://docsify.js.org/) · 📦 [GitHub template](https://github.com/docsifyjs/docsify-template) · 📋 [Release notes](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0) 
-
 **Docsify-This v2** (built with Docsify v5) <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">   
 🔗 [docsify-this.net](https://docsify-this.net)  
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
@@ -28,6 +25,10 @@
 **2026 Grav Skeleton Refresh** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
 🔗 [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
 *Accessibility improvements and a new Dark Mode option for Open Course Hub and Open MultiCourse Hub; an updated visual style for Learn2 with Git Sync*
+
+**Git Page Link Plugin**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
+*Connects Grav pages to their content Git repository with almost any theme – for open authoring and OER workflows*
 
 **HibbittsDesign.org** creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators, and supports the wider Markdown publishing community – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
 
@@ -102,7 +103,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 - [Grav Learn2 with Git Sync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
 #### Grav Plugins
-- [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows · [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · [Download](https://getgrav.org/downloads/plugins#git-page-link)
+- [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows
 
 ### 🛟 Online Course Design
 
