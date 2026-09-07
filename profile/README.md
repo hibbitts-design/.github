@@ -13,6 +13,14 @@
 🔗 [docsify-this.net](https://docsify-this.net)  
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
+**Grav Helios Course Hub**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)  
+*Requires PHP Web server and Grav Premium Helios Theme*
+
+**Grav Helios Open Reader**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
+*Requires PHP Web server and Grav Premium Helios Theme*
+
 **Free Course Conversion Tools** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
 🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Helios Cartridge Converter](https://helios-common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
 *Import an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader*
@@ -77,10 +85,10 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 
 > **Grav Helios Course Hub and Grav Helios Open Reader are the premium counterparts to the free Grav skeleton projects below, built on the paid Grav Premium Helios theme.** [Grav Helios Course Hub](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader)
 
-- [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – premium Grav Helios theme required · [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)
+- [Grav Helios Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) – premium Grav Helios theme required
   - Example Helios Course Hub variations:
     - [Single Course](https://demo.hibbittsdesign.org/grav-helios-single-course-hub/cpt-363-1/home)
-- [Grav Helios Open Reader Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) – premium Grav Helios theme required · [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)
+- [Grav Helios Open Reader Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) – premium Grav Helios theme required
   - Example Helios Open Reader variations:
     - [Sections with Parts](https://demo.hibbittsdesign.org/grav-helios-open-reader-parts)
     - [LLMs.txt Support](https://demo.hibbittsdesign.org/grav-helios-open-reader-llms)
