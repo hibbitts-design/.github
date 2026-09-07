@@ -6,7 +6,7 @@
 
 ### Recent Highlights
 
-**Docsify-This v2** (built with Docsify v5) <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">   
+**Docsify-This v2** (built with Docsify v5)   
 🔗 [docsify-this.net](https://docsify-this.net)  
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
@@ -22,7 +22,7 @@
 🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Helios Cartridge Converter](https://helios-common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
 *Import an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader*
 
-**2026 Grav Skeleton Refresh** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
+**2026 Grav Skeleton Refresh**  
 🔗 [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
 *Accessibility improvements and a new Dark Mode option for Open Course Hub and Open MultiCourse Hub; an updated visual style for Learn2 with Git Sync*
 
