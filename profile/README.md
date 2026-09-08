@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/hibbitts-design/.github/refs/heads/main/layout-10f.png" alt="Three hand-drawn abstract icons on a flowing, multi-blue background suggesting digital waves. The first icon represents 'open-source', the second icon represents 'capability', and the third icon represents 'publishing'." title="Image created by Jason Toal of Same Page Studio">
 
-<h1>Your Markdown, Published Your Way: Open-Source Docsify &amp; Grav&nbsp;Tools</h1>
+<h1>Your Markdown, Published Your Way: Open-Source Docsify &amp; Grav&nbsp;Projects</h1>
 
 ## Hello there, and welcome to open publishing 👋🏼
 
