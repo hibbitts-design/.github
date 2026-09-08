@@ -2,7 +2,7 @@
 
 <h1>Your Markdown, Published Your Way: Open-Source Docsify &amp; Grav&nbsp;Projects</h1>
 
-## Hello there, and welcome to open publishing 👋🏼
+## A few open-source tools for turning Markdown into websites 👋🏼
 
 ### Recent Highlights
 
