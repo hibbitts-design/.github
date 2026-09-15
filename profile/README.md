@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner.png" alt="HibbittsDesign.org — Instant Docsify-This, self-hosted Docsify Starter Kits, or a full Grav CMS, free or premium">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner.png">
+  <img alt="HibbittsDesign.org — Instant Docsify-This, self-hosted Docsify Starter Kits, or a full Grav CMS, free or premium" src="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner.png">
+</picture>
 
 # Your Markdown, Published Your Way: Open-Source Docsify &amp; Grav&nbsp;Projects
 
