@@ -10,19 +10,19 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 🔗 [Docsify-This.net](https://docsify-this.net)  
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
-**`MIGRATE` `NEW` Free Conversion Tools**    
+**`MIGRATE` `NEW` Free Conversion Tools**  
 🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Helios Cartridge Converter](https://helios-common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
 *Import an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader*
 
-**`FULL CMS · FREE` Cost-Free Grav Projects: 2026 Refresh**  
+**`FULL CMS` `FREE` Cost-Free Grav Projects: 2026 Refresh**  
 🔗 [See all four, compared](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
 *Accessibility improvements and a new Dark Mode option for Open Course Hub and Open MultiCourse Hub; an updated visual style for Learn2 with Git Sync*
 
-**`FULL CMS · PREMIUM` Grav Helios Course Hub**  
+**`FULL CMS` `PREMIUM` Grav Helios Course Hub**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)  
 *Requires PHP Web server and Grav Premium Helios Theme*
 
-**`FULL CMS · PREMIUM` Grav Helios Open Reader**  
+**`FULL CMS` `PREMIUM` Grav Helios Open Reader**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
 *Requires PHP Web server and Grav Premium Helios Theme*
 
