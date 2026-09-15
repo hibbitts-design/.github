@@ -2,15 +2,17 @@
 
 ## Hello there, here are some open-source tools for turning Markdown into websites 👋🏼
 
-All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS via the [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html) (free) or the Grav Premium Helios Ecosystem (premium theme). Easy to start with, easy to switch between, and easy to leave if your needs change.
+New here? [About Paul](https://hibbittsdesign.org/about.html) has the full story – teaching background, design philosophy, and a look back at [Design Origins](https://hibbittsdesign.org/design-origins.html), from 1990s HyperCard stacks to these projects today.
+
+All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS via the [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html) (free) or [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) / [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) (premium theme). Easy to start with, easy to switch between, and easy to leave if your needs change.
 
 ### Recent Highlights
 
-**`PUBLISH` Docsify-This v2.0** (built with Docsify v5)   
+**`PUBLISH` Docsify-This v2.0.1** (built with Docsify v5)   
 🔗 [docsify-this.net](https://docsify-this.net)  
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
-**`MIGRATE` Free Conversion Tools**  
+**`MIGRATE` Free Conversion Tools** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
 🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Helios Cartridge Converter](https://helios-common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
 *Import an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader*
 
