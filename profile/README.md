@@ -131,18 +131,8 @@ Interested in financially supporting my open source work? I’d be honoured if y
 
 ## Connect with me
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td>
-      <a href="https://mastodon.social/@hibbittsdesign"><img src="https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white" /></a>
-    </td>
-    <td>
-      <a href="https://bsky.app/profile/hibbittsdesign.org"><img src="https://img.shields.io/static/v1?label=Bluesky&message=hibbittsdesign&color=blue&style=for-the-badge&logo=bluesky&logoColor=white" /></a>
-    </td>
-    <td>
-      <a href="https://ca.linkedin.com/in/paulhibbitts/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Paul%20Hibbitts&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    </td>
- </tr>
-</table>
+[![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=hibbittsdesign&color=blue&style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@hibbittsdesign)
+[![Bluesky](https://img.shields.io/static/v1?label=Bluesky&message=hibbittsdesign&color=blue&style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/hibbittsdesign.org)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Paul%20Hibbitts&color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/paulhibbitts/)
 
 </details>
