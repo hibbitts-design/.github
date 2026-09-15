@@ -10,7 +10,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 🔗 [docsify-this.net](https://docsify-this.net)  
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
-**`MIGRATE` Free Conversion Tools** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
+**`MIGRATE` Free Conversion Tools**  
 🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Helios Cartridge Converter](https://helios-common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
 *Import an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader*
 
