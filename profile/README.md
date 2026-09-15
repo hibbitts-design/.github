@@ -6,7 +6,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 
 ### Recent Highlights
 
-**`PUBLISH` Docsify-This v2.0.1** (built with Docsify v5)   
+**`PUBLISH` Docsify-This v2.0** (built with Docsify v5)   
 🔗 [docsify-this.net](https://docsify-this.net)  
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
