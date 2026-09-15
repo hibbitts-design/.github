@@ -1,40 +1,38 @@
-<img src="https://raw.githubusercontent.com/hibbitts-design/.github/refs/heads/main/layout-10f.png" alt="Three hand-drawn abstract icons on a flowing, multi-blue background suggesting digital waves. The first icon represents 'open-source', the second icon represents 'capability', and the third icon represents 'publishing'." title="Image created by Jason Toal of Same Page Studio">
-
-<h1>Your Markdown, Published Your Way: Open-Source Docsify &amp; Grav&nbsp;Projects</h1>
+# Your Markdown, Published Your Way: Open-Source Docsify &amp; Grav&nbsp;Projects
 
 ## Hello there, here are some open-source tools for turning Markdown into websites 👋🏼
 
+All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS via the [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html) (free) or the Grav Premium Helios Ecosystem (premium theme). Easy to start with, easy to switch between, and easy to leave if your needs change.
+
 ### Recent Highlights
 
-**Docsify-This v2** (built with Docsify v5)   
+**`PUBLISH` Docsify-This v2.0.1** (built with Docsify v5)   
 🔗 [docsify-this.net](https://docsify-this.net)  
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
-**Grav Helios Course Hub**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)  
-*Requires PHP Web server and Grav Premium Helios Theme*
-
-**Grav Helios Open Reader**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
-*Requires PHP Web server and Grav Premium Helios Theme*
-
-**Free Conversion Tools** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
+**`MIGRATE` Free Conversion Tools** <img alt="New" src="https://img.shields.io/badge/NEW-LimeGreen" height="15">  
 🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Helios Cartridge Converter](https://helios-common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
 *Import an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader*
 
-**2026 Grav Skeleton Refresh**  
-🔗 [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
+**`FULL CMS · FREE` Cost-Free Grav Projects: 2026 Refresh**  
+🔗 [See all four, compared](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
 *Accessibility improvements and a new Dark Mode option for Open Course Hub and Open MultiCourse Hub; an updated visual style for Learn2 with Git Sync*
 
-**Git Page Link Plugin**  
+**`FULL CMS · PREMIUM` Grav Helios Course Hub**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)  
+*Requires PHP Web server and Grav Premium Helios Theme*
+
+**`FULL CMS · PREMIUM` Grav Helios Open Reader**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
+*Requires PHP Web server and Grav Premium Helios Theme*
+
+**`PLUGIN` Git Page Link Plugin**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
 *Connects Grav pages to their content Git repository with almost any theme – for open authoring and OER workflows*
 
 **HibbittsDesign.org** creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators, and supports the wider Markdown publishing community – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
 
 Built with a focus on outcomes over features, these projects strive to be both enjoyable and valuable.
-
-All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS via the Grav Open Source Projects (free) or the Grav Premium Helios Ecosystem (premium theme). Easy to start with, easy to switch between, and easy to leave if your needs change.
 
 See what [educators and users are saying](https://hibbittsdesign.org/testimonials.html) about these projects.
 
