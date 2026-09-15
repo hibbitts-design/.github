@@ -2,8 +2,6 @@
 
 # Your Markdown, Published Your Way: Open-Source Docsify &amp; Grav&nbsp;Projects
 
-# Your Markdown, Published Your Way: Open-Source Docsify &amp; Grav&nbsp;Projects
-
 ## Hello there, here are some open-source tools for turning Markdown into websites 👋🏼
 
 All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS via the [Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html) (free) or [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) / [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) (premium theme). Easy to start with, easy to switch between, and easy to leave if your needs change.
