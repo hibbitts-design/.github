@@ -30,7 +30,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
 *Connects Grav pages to their content Git repository with almost any theme – for open authoring and OER workflows*
 
-**HibbittsDesign.org** creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators, and supports the wider Markdown publishing community – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
+**[HibbittsDesign.org](https://hibbittsdesign.org/)** creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators, and supports the wider Markdown publishing community – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
 
 Built with a focus on outcomes over features, these projects strive to be both enjoyable and valuable.
 
@@ -91,6 +91,9 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
   - Example Helios Open Reader variations:
     - [Sections with Parts](https://demo.hibbittsdesign.org/grav-helios-open-reader-parts)
     - [LLMs.txt Support](https://demo.hibbittsdesign.org/grav-helios-open-reader-llms)
+
+The four skeletons below make up the **[Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html)** collection:
+
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
   - Example Open Course Hub variations:
     - [Light/Dark Theme](https://demo.hibbittsdesign.org/grav-open-course-hub-dark-auto/)
