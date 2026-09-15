@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hibbitts-design/.github/refs/heads/main/hibbittsdesign-readme-banner.png" alt="HibbittsDesign.org — Instant Docsify-This, self-hosted Docsify Starter Kits, or a full Grav CMS, free or premium">
+<img src="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner.png" alt="HibbittsDesign.org — Instant Docsify-This, self-hosted Docsify Starter Kits, or a full Grav CMS, free or premium">
 
 # Your Markdown, Published Your Way: Open-Source Docsify &amp; Grav&nbsp;Projects
 
