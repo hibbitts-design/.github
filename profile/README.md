@@ -1,5 +1,3 @@
-# A Systems-Oriented Approach to Software: Your Markdown, Published Your&nbsp;Way
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner.png">
