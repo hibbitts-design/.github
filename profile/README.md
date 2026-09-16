@@ -4,7 +4,7 @@
   <img alt="HibbittsDesign.org — Instant Docsify-This, self-hosted Docsify Starter Kits, or full Grav CMS Projects, premium or cost-free" src="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner.png">
 </picture>
 
-# Your Markdown, Published Your Way: Open-Source Docsify &amp; Grav&nbsp;Projects
+# A Systems-Oriented Approach to Software: Your Markdown, Published Your&nbsp;Way
 
 ## Hello there, here are some open-source tools for turning Markdown into websites 👋🏼
 
