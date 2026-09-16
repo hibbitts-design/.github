@@ -1,10 +1,10 @@
+# A Systems-Oriented Approach to Software: Your Markdown, Published Your&nbsp;Way
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner.png">
   <img alt="HibbittsDesign.org — Instant Docsify-This, self-hosted Docsify Starter Kits, or full Grav CMS Projects, premium or cost-free" src="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner.png">
 </picture>
-
-# A Systems-Oriented Approach to Software: Your Markdown, Published Your&nbsp;Way
 
 ## Hello there, here are some open-source tools for turning Markdown into websites 👋🏼
 
