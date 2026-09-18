@@ -27,7 +27,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 *Import an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader*
 
 **`FULL CMS` `FREE` Cost-Free Grav Projects: 2026 Refresh**  
-🔗 [See all four, compared](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
+🔗 [Learn about all four](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
 *Accessibility improvements and a new Dark Mode option for Open Course Hub and Open MultiCourse Hub; an updated visual style for Learn2 with Git Sync*
 
 **`PLUGIN` Git Page Link Plugin**  
