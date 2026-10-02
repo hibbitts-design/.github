@@ -27,8 +27,8 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 *Import an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader*
 
 **`FULL CMS` `FREE` Cost-Free Grav Projects: 2026 Refresh**  
-🔗 [Learn about all four](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
-*Accessibility improvements and a new Dark Mode option for Open Course Hub and Open MultiCourse Hub; an updated visual style for Learn2 with Git Sync*
+🔗 [Learn about all four](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark/) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
+*A new Dark Mode option for all four, plus accessibility improvements and a streamlined choice of visual styles*
 
 **`PLUGIN` Git Page Link Plugin**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
