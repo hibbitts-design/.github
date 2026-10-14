@@ -102,7 +102,7 @@ The four skeletons below make up the **[Cost-Free Grav Projects](https://hibbitt
 - [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
   - Example Open Course Hub variations:
-    - [Imported LMS Course](https://demo.hibbittsdesign.org/grav-open-course-hub-it2dda/) – converted with the free Common Cartridge Converter
+    - [Imported LMS Course](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/) – converted with the free Common Cartridge Converter
 - [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
 - [Grav Learn2 with Git Sync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
