@@ -10,9 +10,13 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 
 ## Recent Highlights
 
-**`PUBLISH` Docsify-This v2.0** (built with Docsify v5)   
+**`PUBLISH` Docsify-This v2.1** (built with Docsify v5)   
 🔗 [Docsify-This.net](https://docsify-this.net) · 📦 [GitHub repository](https://github.com/hibbitts-design/docsify-this)    
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
+
+**`FULL CMS` `FREE` Cost-Free Grav Projects: Open Course Hub 2**  
+🔗 [Learn about all four](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
+*Open Course Hub 2 organises courses by modules, as in Grav Helios Course Hub, with a course blog that can also hold weekly materials – plus Dark Mode for all four and a cleaner 2026 Modern look*
 
 **`FULL CMS` `PREMIUM` Grav Helios Open Reader**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
@@ -24,11 +28,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 
 **`MIGRATE` `BETA` Free Conversion Tools**  
 🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
-*Convert an existing Canvas, Moodle, or Brightspace course into Docsify or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader or Grav Open Publishing Space*
-
-**`FULL CMS` `FREE` Cost-Free Grav Projects: 2026 Refresh**  
-🔗 [Learn about all four](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark/) · [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
-*A new Dark Mode option for all four, a cleaner 2026 Modern look for the course hubs with a tinted NavBar in each course's colour, and accessibility improvements*
+*Convert an existing Canvas, Moodle, or Brightspace course into Docsify, Grav Open Course Hub, or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader or Grav Open Publishing Space*
 
 **`PLUGIN` Git Page Link Plugin**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
@@ -49,15 +49,15 @@ See what [educators and users are saying](https://hibbittsdesign.org/testimonial
 A documentation-style platform for Markdown publishing that requires no Web server or build process, making it accessible to a broader audience.
 
 #### Docsify Web App
-- [Docsify-This.net](http://docsify-this.net/) for content publishers, educators, creators and groups seeking a simple way to turn Markdown files into styled websites.
+- [Docsify-This.net](https://docsify-this.net/) for content publishers, educators, creators and groups seeking a simple way to turn Markdown files into styled websites.
   - Loadable configurations of popular LMS content styles for Docsify-This:
-    - [Brightspace Config](http://load-brightspace.docsify-this.net)
-    - [Canvas Config](http://load-canvas.docsify-this.net)
-    - [Moodle Config](http://load-moodle.docsify-this.net)
-    - [Sakai Config](http://load-sakai.docsify-this.net)
+    - [Brightspace Config](https://load-brightspace.docsify-this.net)
+    - [Canvas Config](https://load-canvas.docsify-this.net)
+    - [Moodle Config](https://load-moodle.docsify-this.net)
+    - [Sakai Config](https://load-sakai.docsify-this.net)
   - Loadable configurations for presentation content styles with Docsify-This:
-    - [Basic Presentation](http://present.docsify-this.net)
-    - [Presentation with Docsify Sidebar for Navigation](http://present-nav.docsify-this.net)
+    - [Basic Presentation](https://present.docsify-this.net)
+    - [Presentation with Docsify Sidebar for Navigation](https://present-nav.docsify-this.net)
 
 #### Docsify Starter Kits
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators. Best for users comfortable with GitHub/Codeberg basics, or willing to learn.
@@ -66,7 +66,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
       - [Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dark)
       - [SFU-branded Colors Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-styling)
       - [SFU-branded Colors Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-styling-dark)
-      - [SFU-branded Colors Dark Theme Auto](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-styling-dark)
+      - [SFU-branded Colors Dark Theme Auto](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-styling-dark-auto)
       - [SFU-branded Colors Dual Visual Style Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dual-sfu-styling)
 - [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators managing multiple courses
   - Example Open MultiCourse Starter Kit variations:
@@ -102,18 +102,17 @@ The four skeletons below make up the **[Cost-Free Grav Projects](https://hibbitt
 - [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
   - Example Open Course Hub variations:
-    - [Light/Dark Theme](https://demo.hibbittsdesign.org/grav-open-course-hub-dark-auto/)
+    - [Imported LMS Course](https://demo.hibbittsdesign.org/grav-open-course-hub-it2dda/) – converted with the free Common Cartridge Converter
 - [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
-    - Example Open MultiCourse Hub variations:
-      - [Light/Dark Theme](https://demo.hibbittsdesign.org/grav-open-multi-course-hub-dark-auto/)
 - [Grav Learn2 with Git Sync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
 #### Grav Plugins
 - [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows
+- [Hypothesis](https://github.com/hibbitts-design/grav-plugin-hypothesis) – adds the Hypothesis sidebar to a site, for public or private annotations on any page
 
 ### 🛟 Online Course Design
 
-To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://sfu.instructure.com/courses/2602) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit), as well as an earlier [Grav CMS course hub](https://opencoursehub.cs.sfu.ca/paulh/cmpt-363/).
+To help teams and individual educators create better online experiences for their students, the [Canvas LMS site](https://sfu.instructure.com/courses/2602) for my most recent highly successful offering of SFU CMPT-363 User Interface Design (which was redesigned as an online and more scalable variation of the traditional 3rd-year face-to-face course) remains public. The source content for this course, along with the previous two offerings, is also available at the [CMPT-363 Hub Standalone site](https://paulhibbitts.github.io/cmpt-363) built with the [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit).
 
 ### 🙏🏼 Open Source Contributions
 
