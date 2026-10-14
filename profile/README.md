@@ -51,13 +51,13 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 #### Docsify Web App
 - [Docsify-This.net](https://docsify-this.net/) for content publishers, educators, creators and groups seeking a simple way to turn Markdown files into styled websites.
   - Loadable configurations of popular LMS content styles for Docsify-This:
-    - [Brightspace Config](https://load-brightspace.docsify-this.net)
-    - [Canvas Config](https://load-canvas.docsify-this.net)
-    - [Moodle Config](https://load-moodle.docsify-this.net)
-    - [Sakai Config](https://load-sakai.docsify-this.net)
+    - [Brightspace Config](http://load-brightspace.docsify-this.net)
+    - [Canvas Config](http://load-canvas.docsify-this.net)
+    - [Moodle Config](http://load-moodle.docsify-this.net)
+    - [Sakai Config](http://load-sakai.docsify-this.net)
   - Loadable configurations for presentation content styles with Docsify-This:
-    - [Basic Presentation](https://present.docsify-this.net)
-    - [Presentation with Docsify Sidebar for Navigation](https://present-nav.docsify-this.net)
+    - [Basic Presentation](http://present.docsify-this.net)
+    - [Presentation with Docsify Sidebar for Navigation](http://present-nav.docsify-this.net)
 
 #### Docsify Starter Kits
 - [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit) for course authors and facilitators. Best for users comfortable with GitHub/Codeberg basics, or willing to learn.
