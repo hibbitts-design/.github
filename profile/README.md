@@ -14,9 +14,9 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 🔗 [Docsify-This.net](https://docsify-this.net) · 📦 [GitHub repository](https://github.com/hibbitts-design/docsify-this)    
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
-**`FULL CMS` `FREE` Cost-Free Grav Projects: Open Course Hub 2**  
+**`FULL CMS` `FREE` Cost-Free Grav Projects: Open Course Hub 2 and Open Publishing Space 2**  
 🔗 [Learn about all four](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
-*Open Course Hub 2 organises courses by modules, as in Grav Helios Course Hub, with a course blog that can also hold weekly materials – plus Dark Mode for all four and a cleaner 2026 Modern look*
+*Open Course Hub 2 organises courses by modules, as in Grav Helios Course Hub, with a course blog that can also hold weekly materials, and Open Publishing Space 2 gives the Markdown of any page – plus Dark Mode for all four and a cleaner 2026 Modern look*
 
 **`FULL CMS` `PREMIUM` Grav Helios Open Reader**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
@@ -28,7 +28,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 
 **`MIGRATE` `BETA` Free Conversion Tools**  
 🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/)  
-*Convert an existing Canvas, Moodle, or Brightspace course into Docsify, Grav Open Course Hub, or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader or Grav Open Publishing Space*
+*Convert an existing Canvas, Moodle, Brightspace, or Blackboard course into Docsify, Grav Open Course Hub or MultiCourse Hub, or Grav Helios Course Hub, or a Pressbooks book into Grav Helios Open Reader or Grav Open Publishing Space*
 
 **`PLUGIN` Git Page Link Plugin**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
