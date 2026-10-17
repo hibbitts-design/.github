@@ -16,7 +16,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 
 **`FULL CMS` `FREE` Cost-Free Grav Projects: Open Course Hub 2 and Open Publishing Space 2**  
 🔗 [Learn about all four](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Publishing Space 2](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [Grav Open Course Hub 2](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub 2](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
-*Open Course Hub 2 organises courses by modules, as in Grav Helios Course Hub, with a course blog that can also hold weekly materials, and Open Publishing Space 2 gives the Markdown of any page – plus Dark Mode for all four and a cleaner 2026 Modern look*
+*Open Course Hub organises courses by modules, as in Grav Helios Course Hub, with a course blog that can also hold weekly materials, and Open Publishing Space gives the Markdown of any page – plus Dark Mode for all four and a cleaner 2026 Modern look*
 
 **`FULL CMS` `PREMIUM` Grav Helios Open Reader**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
