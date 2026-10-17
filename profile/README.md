@@ -15,7 +15,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 *🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
 **`FULL CMS` `FREE` Cost-Free Grav Projects: Open Course Hub 2 and Open Publishing Space 2**  
-🔗 [Learn about all four](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Publishing Space](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [Grav Open Course Hub](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
+🔗 [Learn about all four](https://hibbittsdesign.org/cost-free-grav-projects.html) · [Grav Open Publishing Space 2](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · [Grav Open Course Hub 2](https://demo.hibbittsdesign.org/grav-open-course-hub) · [Grav Open MultiCourse Hub 2](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) · [Grav Learn2 with Git Sync](https://demo.hibbittsdesign.org/grav-learn2-git-sync/)  
 *Open Course Hub 2 organises courses by modules, as in Grav Helios Course Hub, with a course blog that can also hold weekly materials, and Open Publishing Space 2 gives the Markdown of any page – plus Dark Mode for all four and a cleaner 2026 Modern look*
 
 **`FULL CMS` `PREMIUM` Grav Helios Open Reader**  
@@ -99,11 +99,11 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 
 The four skeletons below make up the **[Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html)** collection:
 
-- [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
-- [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
+- [Grav Open Publishing Space 2 Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space)
+- [Grav Open Course Hub 2 Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub)
   - Example Open Course Hub variations:
     - [Imported LMS Course](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/) – converted with the free Common Cartridge Converter
-- [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
+- [Grav Open MultiCourse Hub 2 Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub)
 - [Grav Learn2 with Git Sync Skeleton](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync)
 
 #### Grav Plugins
