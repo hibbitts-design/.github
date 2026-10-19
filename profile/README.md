@@ -24,11 +24,11 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 
 **`FULL CMS` `PREMIUM` [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
-*The Grav Premium Helios step up from Open Publishing Space – needs the Grav Premium Helios theme ($50 per site) and a PHP web server*
+*The Grav Premium Helios step up from Open Publishing Space – needs the Grav Premium Helios theme ($50 per site)*
 
 **`FULL CMS` `PREMIUM` [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)  
-*The Grav Premium Helios step up from Open Course Hub – needs the Grav Premium Helios theme ($50 per site) and a PHP web server*
+*The Grav Premium Helios step up from Open Course Hub – needs the Grav Premium Helios theme ($50 per site)*
 
 **`MIGRATE` `BETA` Free Conversion Tools**  
 🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) · [Grav Converters](https://grav-converters.hibbittsdesign.org/)  
