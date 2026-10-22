@@ -4,7 +4,7 @@
   <img alt="HibbittsDesign.org – Instant Docsify-This, self-hosted Docsify Starter Kits, or full Grav CMS Projects, cost-free or premium" src="https://raw.githubusercontent.com/hibbitts-design/.github/main/profile/hibbittsdesign-readme-banner.png">
 </picture>
 
-# Hello there, here are open-source tools for turning Markdown into&nbsp;websites 👋🏼
+# Hello there, here are open-source tools for turning Markdown into websites for open education and&nbsp;publishing 👋🏼
 
 All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS: free with [Grav Open Publishing Space](https://hibbittsdesign.org/grav-open-publishing-space.html) or [Grav Open Course Hub](https://hibbittsdesign.org/grav-open-course-hub.html), or with [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) or [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) on the Grav Premium Helios theme as a step up – see [Grav CMS Projects at a Glance](https://hibbittsdesign.org/grav-projects-at-a-glance.html). Easy to start with, easy to switch between, and easy to leave if your needs change.
 
@@ -16,7 +16,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 
 **`FULL CMS` `FREE` [Grav Open Publishing Space](https://hibbittsdesign.org/grav-open-publishing-space.html)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)  
-*An open guide or book site, with a blog and almost any other Grav page alongside it – Keep My Place, a Previous/Next bar on phones, and the Markdown of any page, on Grav 2 or 1.7*
+*An open guide or book site, with a blog and almost any other Grav page alongside it – Keep My Place, a Previous/Next bar on phones, diagrams and math, and the Markdown of any page, on Grav 2 or 1.7*
 
 **`FULL CMS` `FREE` [Grav Open Course Hub](https://hibbittsdesign.org/grav-open-course-hub.html)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-course-hub) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#course-hub-site)  
@@ -37,6 +37,10 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 **`PLUGIN` `NEW` [Mermaid Plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/open-education-essentials/what-is-open-education/getting-started-with-oer#three-entry-points) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-mermaid)  
 *Draws Mermaid diagrams from text in a page, matching the theme’s light or dark mode – easy to revise and remix, with titles and descriptions for screen readers, on Grav 2 or 1.7*
+
+**`PLUGIN` `NEW` [LaTeX Math Plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#latex-math-plugin)**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-plugin-latex-math/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-latex-math)  
+*Draws LaTeX math, including chemistry, with KaTeX or MathJax, matching the theme’s light or dark mode – easy to revise and remix, and read by screen readers, on Grav 2 or 1.7*
 
 **`PLUGIN` Git Page Link Plugin**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
@@ -116,6 +120,7 @@ Also free: [Grav Learn2 with Git Sync](https://github.com/hibbitts-design/grav-s
 
 #### Grav Plugins
 - [Mermaid](https://github.com/hibbitts-design/grav-plugin-mermaid) – draws Mermaid diagrams from text in a page, matching the theme’s light or dark mode
+- [LaTeX Math](https://github.com/hibbitts-design/grav-plugin-latex-math) – draws LaTeX math, including chemistry, with KaTeX or MathJax, matching the theme’s light or dark mode
 - [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows
 - [Admin2 Site ReadMe](https://github.com/hibbitts-design/grav-plugin-admin2-site-readme) – shows a site’s own ReadMe, such as a README on GitHub, in the Grav 2 Admin 2 sidebar
 - [Hypothesis](https://github.com/hibbitts-design/grav-plugin-hypothesis) – adds the Hypothesis sidebar to a site, for public or private annotations on any page
