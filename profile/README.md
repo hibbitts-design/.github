@@ -34,6 +34,10 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 🔗 [Docsify Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) · [Grav Converters](https://grav-converters.hibbittsdesign.org/)  
 *Convert an existing Canvas, Moodle, Brightspace, or Blackboard course into Docsify, Grav Open Course Hub or MultiCourse Hub, or Grav Helios Course Hub, or a Pressbooks book into Grav Open Publishing Space or Grav Helios Open Reader*
 
+**`PLUGIN` `NEW` [Mermaid Plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin)**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/open-education-essentials/what-is-open-education/getting-started-with-oer#three-entry-points) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-mermaid)  
+*Draws Mermaid diagrams from text in a page, matching the theme's light or dark mode – easy to revise and remix, with titles and descriptions for screen readers, on Grav 2 or 1.7*
+
 **`PLUGIN` Git Page Link Plugin**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-git-page-link-plugin/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-git-page-link) · ⬇️ [Download](https://getgrav.org/downloads/plugins#git-page-link)  
 *Connects Grav pages to their content Git repository with almost any theme – for open authoring and OER workflows*
@@ -111,7 +115,9 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 Also free: [Grav Learn2 with Git Sync](https://github.com/hibbitts-design/grav-skeleton-learn2-with-git-sync), a documentation site – see [More Cost-Free Grav Projects](https://hibbittsdesign.org/cost-free-grav-projects.html).
 
 #### Grav Plugins
+- [Mermaid](https://github.com/hibbitts-design/grav-plugin-mermaid) – draws Mermaid diagrams from text in a page, matching the theme's light or dark mode
 - [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows
+- [Admin2 Site ReadMe](https://github.com/hibbitts-design/grav-plugin-admin2-site-readme) – shows a site's own ReadMe, such as a README on GitHub, in the Grav 2 Admin 2 sidebar
 - [Hypothesis](https://github.com/hibbitts-design/grav-plugin-hypothesis) – adds the Hypothesis sidebar to a site, for public or private annotations on any page
 
 ### 🛟 Online Course Design
