@@ -35,11 +35,11 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 *Convert an existing Canvas, Moodle, Brightspace, or Blackboard course into Docsify, Grav Open Course Hub or MultiCourse Hub, or Grav Helios Course Hub, or a Pressbooks book into Grav Open Publishing Space or Grav Helios Open Reader*
 
 **`PLUGIN` `NEW` [Mermaid Plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin)**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/open-education-essentials/what-is-open-education/getting-started-with-oer#three-entry-points) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-mermaid)  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/open-education-essentials/what-is-open-education/getting-started-with-oer#three-entry-points) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-mermaid) · ⬇️ [Download](https://getgrav.org/downloads/plugins#mermaid)  
 *Draws Mermaid diagrams from text in a page, matching the theme’s light or dark mode – easy to revise and remix, with titles and descriptions for screen readers, on Grav 2 or 1.7*
 
 **`PLUGIN` `NEW` [LaTeX Math Plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#latex-math-plugin)**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-plugin-latex-math/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-latex-math)  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-plugin-latex-math/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-latex-math) · ⬇️ [Download](https://getgrav.org/downloads/plugins#latex-math)  
 *Draws LaTeX math, including chemistry, with KaTeX or MathJax, matching the theme’s light or dark mode – easy to revise and remix, and read by screen readers, on Grav 2 or 1.7*
 
 **`PLUGIN` Git Page Link Plugin**  
