@@ -31,8 +31,8 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 *The Grav Premium Helios step up from Open Course Hub – needs the Grav Premium Helios theme ($50 per site)*
 
 **`MIGRATE` `BETA` Free Conversion Tools**  
-🔗 [Docsify Common Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) · [Open Publishing Guides Converter](https://open-publishing-guides-converter.hibbittsdesign.org/) · [Grav Converters](https://grav-converters.hibbittsdesign.org/)  
-*Convert an existing Canvas, Moodle, Brightspace, or Blackboard course into Docsify, Grav Open Course Hub or MultiCourse Hub, or Grav Helios Course Hub, or a Pressbooks book into Grav Open Publishing Space or Grav Helios Open Reader – and move open guides between Docsify and Grav Open Publishing Space, in either direction*
+🔗 [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Open Publishing Guides Converter](https://open-publishing-guides-converter.hibbittsdesign.org/) · [Docsify Common Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Converters](https://grav-converters.hibbittsdesign.org/)  
+*Convert a Pressbooks book into Grav Open Publishing Space or Grav Helios Open Reader, or a Canvas, Moodle, Brightspace, or Blackboard course into Grav Open Course Hub or MultiCourse Hub, Grav Helios Course Hub, or Docsify – and move open guides between Docsify and Grav Open Publishing Space, in either direction*
 
 **`PLUGIN` `NEW` [Mermaid Plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/open-education-essentials/what-is-open-education/getting-started-with-oer#three-entry-points) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-mermaid) · ⬇️ [Download](https://getgrav.org/downloads/plugins#mermaid)  
