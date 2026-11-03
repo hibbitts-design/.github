@@ -31,7 +31,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 *The Grav Premium Helios step up from Open Course Hub – needs the Grav Premium Helios theme ($50 per site)*
 
 **`MIGRATE` `BETA` Free Conversion Tools**  
-🔗 [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Open Publishing Guides Converter](https://open-publishing-guides-converter.hibbittsdesign.org/) · [Docsify Common Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Converters](https://grav-converters.hibbittsdesign.org/)  
+🔗 [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Open Publishing Guides Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) · [Docsify Common Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Converters](https://grav-converters.hibbittsdesign.org/)  
 *Convert a Pressbooks book into Grav Open Publishing Space or Grav Helios Open Reader, or a Canvas, Moodle, Brightspace, or Blackboard course into Grav Open Course Hub or MultiCourse Hub, Grav Helios Course Hub, or Docsify – and move open guides between Docsify and Grav Open Publishing Space, in either direction*
 
 **`PLUGIN` `NEW` [Mermaid Plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin)**  
