@@ -31,8 +31,8 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 *The Grav Premium Helios step up from Open Course Hub – needs the Grav Premium Helios theme ($50 per site)*
 
 **`MIGRATE` `BETA` Free Conversion Tools**  
-🔗 [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Open Publishing Guides Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) · [Docsify Common Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Converters](https://grav-converters.hibbittsdesign.org/)  
-*Convert a Pressbooks book into Grav Open Publishing Space or Grav Helios Open Reader, or a Canvas, Moodle, Brightspace, or Blackboard course into Grav Open Course Hub or MultiCourse Hub, Grav Helios Course Hub, or Docsify – and move open guides between Docsify and Grav Open Publishing Space, in either direction*
+🔗 [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) · [Docsify Common Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Converters](https://grav-converters.hibbittsdesign.org/)  
+*Convert a Pressbooks book into Grav Open Publishing Space or Grav Helios Open Reader, or a Canvas, Moodle, Brightspace, or Blackboard course into Grav Open Course Hub or MultiCourse Hub, Grav Helios Course Hub, or Docsify – and move open guides and courses between Docsify and Grav Open Publishing Space or Open Course Hub, in either direction*
 
 **`PLUGIN` `NEW` [Mermaid Plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/open-education-essentials/what-is-open-education/getting-started-with-oer#three-entry-points) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-mermaid) · ⬇️ [Download](https://getgrav.org/downloads/plugins#mermaid)  
@@ -109,9 +109,11 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
   - Example Open Publishing Space variations:
     - [Several Guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/)
     - [Imported Pressbooks Book](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/) – converted with the free Pressbooks Converter
+    - [Converted to Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-publishing-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&collapsibleSidebarGroups=true&pagination=true&searchbox=true&name=Open%20Publishing%20Space%20Guides) – the skeleton's guides, converted with the free Open Publishing Course Hub Converter
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub) – free ([learn more](https://hibbittsdesign.org/grav-open-course-hub.html))
   - Example Open Course Hub variations:
     - [Imported LMS Course](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/) – converted with the free Common Cartridge Converter
+    - [Converted to Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-hub-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&loadFooter=_footer.md&pagination=true&searchbox=true&name=CPT-363) – the skeleton's course, converted with the free Open Publishing Course Hub Converter
 - [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) – free, for several courses ([learn more](https://hibbittsdesign.org/grav-open-course-hub.html#multicourse))
 - [Grav Helios Open Reader Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) – Grav Premium Helios theme required ([learn more](https://hibbittsdesign.org/grav-helios-open-reader.html))
   - Example Helios Open Reader variations:
