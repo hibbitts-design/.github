@@ -6,7 +6,7 @@
 
 # Hello there, here are open-source tools for turning Markdown into websites for open education and&nbsp;publishing 👋🏼
 
-All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS: free with [Grav Open Publishing Space](https://hibbittsdesign.org/grav-open-publishing-space.html) or [Grav Open Course Hub](https://hibbittsdesign.org/grav-open-course-hub.html), or with [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) or [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) on the Grav Premium Helios theme as a step up – see [Grav CMS Projects at a Glance](https://hibbittsdesign.org/grav-projects-at-a-glance.html). Easy to start with, easy to switch between, and easy to leave if your needs change.
+All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS: free with [Grav Open Publishing Space](https://hibbittsdesign.org/grav-open-publishing-space.html) or [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space), or with [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) or [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) on the Grav Premium Helios theme as a step up – see [Grav CMS Projects at a Glance](https://hibbittsdesign.org/grav-projects-at-a-glance.html). Easy to start with, easy to switch between, and easy to leave if your needs change.
 
 ## Recent Highlights
 
@@ -18,9 +18,9 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)  
 *An open guide or book site, with a blog and almost any other Grav page alongside it – Keep My Place, a Previous/Next bar on phones, diagrams and math, and the Markdown of any page, on Grav 2 or 1.7*
 
-**`FULL CMS` `FREE` [Grav Open Course Hub](https://hibbittsdesign.org/grav-open-course-hub.html)**  
-🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-course-hub) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#course-hub-site)  
-*A course site with modules or weekly units and a course blog, that embeds in any LMS – plus [Grav Open MultiCourse Hub](https://demo.hibbittsdesign.org/grav-open-multi-course-hub) for several courses, on Grav 2 or 1.7*
+**`FULL CMS` `FREE` `NEW` [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space)**  
+🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-open-course-space) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest)  
+*One course or many on one site, each with its own menu, colour and header image – modules or weekly units, a blog for all courses or just one, and pages that embed in any LMS. The free successor to Grav Open Course Hub and Open MultiCourse Hub, on Grav 2 (an early release)*
 
 **`FULL CMS` `PREMIUM` [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-open-reader/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-open-reader)  
@@ -28,11 +28,11 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 
 **`FULL CMS` `PREMIUM` [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-helios-course-hub/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-helios-course-hub) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#helios-course-hub)  
-*The Grav Premium Helios step up from Open Course Hub – needs the Grav Premium Helios theme ($50 per site)*
+*The Grav Premium Helios step up from Open Course Space – needs the Grav Premium Helios theme ($50 per site)*
 
 **`MIGRATE` `BETA` Free Conversion Tools**  
 🔗 [Pressbooks Converter](https://pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge Converter](https://common-cartridge-converter.hibbittsdesign.org/) · [Open Publishing Course Hub Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org/) · [Docsify Common Cartridge Converter](https://docsify-common-cartridge-converter.hibbittsdesign.org/) · [Grav Converters](https://grav-converters.hibbittsdesign.org/)  
-*Convert a Pressbooks book into Grav Open Publishing Space or Grav Helios Open Reader, or a Canvas, Moodle, Brightspace, or Blackboard course into Grav Open Course Hub or MultiCourse Hub, Grav Helios Course Hub, or Docsify – and move open guides and courses between Docsify and Grav Open Publishing Space or Open Course Hub, in either direction*
+*Convert a Pressbooks book into Grav Open Publishing Space or Grav Helios Open Reader, or a Canvas, Moodle, Brightspace, or Blackboard course into Grav Open Course Space, Open Course Hub or MultiCourse Hub, Grav Helios Course Hub, or Docsify – and move open guides and courses between Docsify and Grav Open Publishing Space or Open Course Hub, in either direction*
 
 **`PLUGIN` `NEW` [Mermaid Plugin](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/open-education-essentials/what-is-open-education/getting-started-with-oer#three-entry-points) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-plugin-mermaid) · ⬇️ [Download](https://getgrav.org/downloads/plugins#mermaid)  
@@ -103,18 +103,21 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
 
 #### Grav Skeleton Packages
 
-> **Start free with Grav Open Publishing Space or Grav Open Course Hub, and step up to Grav Helios Open Reader or Grav Helios Course Hub on the paid Grav Premium Helios theme.** See [Grav CMS Projects at a Glance](https://hibbittsdesign.org/grav-projects-at-a-glance.html), and [Free or Grav Premium Helios? Compare in Detail](https://hibbittsdesign.org/grav-projects-at-a-glance.html#free-or-helios) for a side-by-side comparison.
+> **Start free with Grav Open Publishing Space or Grav Open Course Space, and step up to Grav Helios Open Reader or Grav Helios Course Hub on the paid Grav Premium Helios theme.** See [Grav CMS Projects at a Glance](https://hibbittsdesign.org/grav-projects-at-a-glance.html), and [Free or Grav Premium Helios? Compare in Detail](https://hibbittsdesign.org/grav-projects-at-a-glance.html#free-or-helios) for a side-by-side comparison.
 
 - [Grav Open Publishing Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) – free ([learn more](https://hibbittsdesign.org/grav-open-publishing-space.html))
   - Example Open Publishing Space variations:
     - [Several Guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/)
     - [Imported Pressbooks Book](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/) – converted with the free Pressbooks Converter
     - [Converted to Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-publishing-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&collapsibleSidebarGroups=true&pagination=true&searchbox=true&name=Open%20Publishing%20Space%20Guides) – the skeleton's guides, converted with the free Open Publishing Course Hub Converter
-- [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub) – free ([learn more](https://hibbittsdesign.org/grav-open-course-hub.html))
+- [Grav Open Course Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-course-space) – free, for one course or many (an early release)
+  - Example Open Course Space variations:
+    - [Imported LMS Course](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/) – converted with the free Common Cartridge Converter
+- [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub) – free, also for Grav 1.7; in maintenance mode soon, with Open Course Space for new sites ([learn more](https://hibbittsdesign.org/grav-open-course-hub.html))
   - Example Open Course Hub variations:
     - [Imported LMS Course](https://demo.hibbittsdesign.org/grav-open-course-hub-common-cartridge-it2dda/) – converted with the free Common Cartridge Converter
     - [Converted to Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-hub-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&loadFooter=_footer.md&pagination=true&searchbox=true&name=CPT-363) – the skeleton's course, converted with the free Open Publishing Course Hub Converter
-- [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) – free, for several courses ([learn more](https://hibbittsdesign.org/grav-open-course-hub.html#multicourse))
+- [Grav Open MultiCourse Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-multicourse-hub) – free, for several courses, also for Grav 1.7; in maintenance mode soon, with Open Course Space for new sites ([learn more](https://hibbittsdesign.org/grav-open-course-hub.html#multicourse))
 - [Grav Helios Open Reader Skeleton](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader) – Grav Premium Helios theme required ([learn more](https://hibbittsdesign.org/grav-helios-open-reader.html))
   - Example Helios Open Reader variations:
     - [Sections with Parts](https://demo.hibbittsdesign.org/grav-helios-open-reader-parts)
@@ -129,7 +132,7 @@ Also free: [Grav Learn2 with Git Sync](https://github.com/hibbitts-design/grav-s
 - [Mermaid](https://github.com/hibbitts-design/grav-plugin-mermaid) – draws Mermaid diagrams from text in a page, matching the theme’s light or dark mode
 - [LaTeX Math](https://github.com/hibbitts-design/grav-plugin-latex-math) – draws LaTeX math, including chemistry, with KaTeX or MathJax, matching the theme’s light or dark mode
 - [Git Page Link](https://github.com/hibbitts-design/grav-plugin-git-page-link) – connects Grav pages to their content Git repository for open authoring and OER workflows
-- [Admin2 Site ReadMe](https://github.com/hibbitts-design/grav-plugin-admin2-site-readme) – shows a site’s own ReadMe, such as a README on GitHub, in the Grav 2 Admin 2 sidebar
+- [Admin2 Site ReadMe](https://github.com/hibbitts-design/grav-plugin-admin2-site-readme) – shows a site’s own ReadMe in the Grav 2 Admin 2 sidebar, such as the Getting Started page in Open Publishing Space and Open Course Space
 - [Hypothesis](https://github.com/hibbitts-design/grav-plugin-hypothesis) – adds the Hypothesis sidebar to a site, for public or private annotations on any page
 
 ### 🛟 Online Course Design
