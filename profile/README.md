@@ -62,9 +62,10 @@ A documentation-style platform for Markdown publishing that requires no Web serv
 
 #### Docsify Web App
 - [Docsify-This.net](https://docsify-this.net/) for content publishers, educators, creators and groups seeking a simple way to turn Markdown files into styled websites.
-  - Docsify-This guide templates, ready to copy:
+  - Docsify-This guide and course templates, ready to copy:
     - [Guide Site Template](https://github.com/hibbitts-design/docsify-this-guide-site)
     - [Multiple Guides Site Template](https://github.com/hibbitts-design/docsify-this-multiple-guides-site)
+    - [Courses Site Template](https://github.com/hibbitts-design/docsify-this-courses-site)
   - Loadable configurations of popular LMS content styles for Docsify-This:
     - [Brightspace Config](http://load-brightspace.docsify-this.net)
     - [Canvas Config](http://load-canvas.docsify-this.net)
@@ -83,11 +84,7 @@ A documentation-style platform for Markdown publishing that requires no Web serv
       - [SFU-branded Colors Dark Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-styling-dark)
       - [SFU-branded Colors Dark Theme Auto](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-sfu-styling-dark-auto)
       - [SFU-branded Colors Dual Visual Style Theme](https://github.com/hibbitts-design/demo-docsify-open-course-starter-kit-dual-sfu-styling)
-- [Docsify Open MultiCourse Starter Kit](https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit) for course authors and facilitators managing multiple courses
-  - Example Open MultiCourse Starter Kit variations:
-      - [Docsify v5 Theme](https://github.com/hibbitts-design/demo-docsify-open-multicourse-starter-kit-docsify-v5-theme)
-      - [Cards](https://github.com/hibbitts-design/demo-docsify-open-multicourse-starter-kit-cards)
-      - [Docsify v5 Theme Cards](https://github.com/hibbitts-design/demo-docsify-open-multicourse-starter-kit-cards-docsify-v5-theme)
+- [Docsify Open Courses Starter Kit](https://github.com/hibbitts-design/docsify-open-courses-starter-kit) for course authors and facilitators with one course or many – a Courses page of cards, and each course with its own sidebar and navbar (replaces the Docsify Open MultiCourse Starter Kit)
 - [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) for open publishers and digital content creators
   - Example Open Publishing Starter Kit variations:
       - [Guide](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-guide)
