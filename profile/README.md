@@ -6,13 +6,13 @@
 
 # Hello there, here are open-source tools for turning Markdown into websites for open education and&nbsp;publishing 👋🏼
 
-All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup Docsify-This web app, self-host and customize further with the Docsify Starter Kits, or go further still with a full, database-free CMS: free with [Grav Open Publishing Space](https://hibbittsdesign.org/grav-open-publishing-space.html) or [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space), or with [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) or [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) on the Grav Premium Helios theme as a step up – see [Grav CMS Projects at a Glance](https://hibbittsdesign.org/grav-projects-at-a-glance.html). Easy to start with, easy to switch between, and easy to leave if your needs change.
+All projects share a common foundation: open, portable, and constraint-free Markdown files. Start simple with the no-signup [Docsify-This](https://hibbittsdesign.org/docsify-this.html) web app, self-host and customize further with the [Docsify Starter Kits](https://hibbittsdesign.org/docsify-starter-kits.html), or go further still with a full, database-free CMS: free with [Grav Open Publishing Space](https://hibbittsdesign.org/grav-open-publishing-space.html) or [Grav Open Course Space](https://hibbittsdesign.org/grav-open-course-space.html), or with [Grav Helios Open Reader](https://hibbittsdesign.org/grav-helios-open-reader.html) or [Grav Helios Course Hub](https://hibbittsdesign.org/grav-helios-course-hub.html) on the Grav Premium Helios theme as a step up – see [Grav CMS Projects at a Glance](https://hibbittsdesign.org/grav-projects-at-a-glance.html). Easy to start with, easy to switch between, and easy to leave if your needs change. Not sure where to start? The [Read, Move, Reuse guide](https://read-move-reuse.hibbittsdesign.org/guide) is a short introduction.
 
 ## Recent Highlights
 
-**`PUBLISH` Docsify-This v2.2** (built with Docsify v5.1)   
-🔗 [Docsify-This.net](https://docsify-this.net) · 📦 [GitHub repository](https://github.com/hibbitts-design/docsify-this)    
-*🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
+**`PUBLISH` `FREE` [Docsify-This v2.2](https://hibbittsdesign.org/docsify-this.html)** (built with Docsify v5.1)  
+🔗 [Docsify-This.net](https://docsify-this.net) · 📦 [GitHub repository](https://github.com/hibbitts-design/docsify-this)  
+*Turn any online Markdown file into a shareable, styled web page – instantly, with no signup and no build step. 🏆 Open Infrastructure Finalist, 2024 Open Education Awards for Excellence*
 
 **`STATIC SITE` `FREE` `NEW` [Docsify Starter Kits](https://hibbittsdesign.org/docsify-starter-kits.html)**  
 🔗 [Open Courses](https://hibbitts-design.github.io/docsify-open-courses-starter-kit/) · [Guide](https://hibbitts-design.github.io/demo-docsify-open-publishing-starter-kit-guide/) · [Multiple Guides](https://hibbitts-design.github.io/demo-docsify-open-publishing-starter-kit-multiple-guides/) · 📦 [Open Courses Kit repository](https://github.com/hibbitts-design/docsify-open-courses-starter-kit) · 📦 [Open Publishing Kit repository](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)  
@@ -22,7 +22,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) · ⬇️ [Download](https://getgrav.org/downloads/skeletons#open-publishing-space-site)  
 *An open guide or book site, with a blog and almost any other Grav page alongside it – Keep My Place, a Previous/Next bar on phones, diagrams and math, and the Markdown of any page, on Grav 2 or 1.7*
 
-**`FULL CMS` `FREE` `NEW` [Grav Open Course Space](https://github.com/hibbitts-design/grav-skeleton-open-course-space)**  
+**`FULL CMS` `FREE` `NEW` [Grav Open Course Space](https://hibbittsdesign.org/grav-open-course-space.html)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-open-course-space) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest)  
 *One course or many on one site, each with its own menu, colour and header image – modules or weekly units, a blog for all courses or just one, and pages that embed in any LMS. The free successor to Grav Open Course Hub and Open MultiCourse Hub, on Grav 2 (an early preview)*
 
@@ -31,7 +31,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 *Convert a Pressbooks book, or a Canvas, Moodle, Brightspace, or Blackboard course, into the free Grav Open Publishing Space or Open Course Space (or Grav Premium Helios) – and move open guides and courses between Docsify and Grav, in either direction*
 
 **`PLUGINS` `NEW` [Mermaid](https://hibbittsdesign.org/cost-free-grav-projects.html#mermaid-plugin) and [LaTeX Math](https://hibbittsdesign.org/cost-free-grav-projects.html#latex-math-plugin)**  
-🔗 [Mermaid demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/open-education-essentials/what-is-open-education/getting-started-with-oer#three-entry-points) · [LaTeX Math demo](https://demo.hibbittsdesign.org/grav-plugin-latex-math/) · 📦 [Mermaid repository](https://github.com/hibbitts-design/grav-plugin-mermaid) · 📦 [LaTeX Math repository](https://github.com/hibbitts-design/grav-plugin-latex-math)  
+🔗 [Mermaid demo](https://demo.hibbittsdesign.org/grav-open-publishing-quark2/open-education-essentials/what-is-open-education/getting-started-with-oer#three-entry-points) · [LaTeX Math demo](https://demo.hibbittsdesign.org/grav-plugin-latex-math/) · 📦 [Mermaid repository](https://github.com/hibbitts-design/grav-plugin-mermaid) · 📦 [LaTeX Math repository](https://github.com/hibbitts-design/grav-plugin-latex-math) · ⬇️ [Mermaid download](https://getgrav.org/downloads/plugins#mermaid) · ⬇️ [LaTeX Math download](https://getgrav.org/downloads/plugins#latex-math)  
 *Mermaid diagrams and LaTeX math (including chemistry) drawn from text in a page, matching the theme’s light or dark mode – easy to revise and remix, and read by screen readers, on Grav 2 or 1.7*
 
 **[HibbittsDesign.org](https://hibbittsdesign.org/)** creates open-source software that turns Markdown into modern, self-managed websites for educators, digital publishers, and content creators, and supports the wider Markdown publishing community – built on over 25 years of experience in software interaction design, UX consulting, and higher education.
