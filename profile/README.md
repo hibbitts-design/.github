@@ -24,7 +24,7 @@ All projects share a common foundation: open, portable, and constraint-free Mark
 
 **`FULL CMS` `FREE` `NEW` [Grav Open Course Space](https://hibbittsdesign.org/grav-open-course-space.html)**  
 🔗 [Demo](https://demo.hibbittsdesign.org/grav-open-course-space/) · 📦 [GitHub repository](https://github.com/hibbitts-design/grav-skeleton-open-course-space) · ⬇️ [Download](https://github.com/hibbitts-design/grav-skeleton-open-course-space/releases/latest)  
-*One course or many on one site, each with its own menu, colour and header image – modules or weekly units, a blog for all courses or just one, and pages that embed in any LMS. The free successor to Grav Open Course Hub and Open MultiCourse Hub, on Grav 2 (an early preview)*
+*One course or many on one site, each with its own menu, colour and header image – modules or weekly units, a blog for all courses or just one, and pages that embed in any LMS. The free successor to Grav Open Course Hub and Open MultiCourse Hub, on Grav 2 (a preview release)*
 
 **`MIGRATE` `BETA` Free Conversion Tools**  
 🔗 [Pressbooks Converter](https://grav-pressbooks-converter.hibbittsdesign.org/) · [Common Cartridge Converter](https://grav-common-cartridge-converter.hibbittsdesign.org/) · [Grav Docsify Bridge](https://grav-docsify-bridge.hibbittsdesign.org/) · [Grav Converters](https://grav-converters.hibbittsdesign.org/)  
@@ -95,7 +95,7 @@ A highly customizable Markdown publishing platform, powered by the versatile Twi
     - [Several Guides](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-guides/)
     - [Imported Pressbooks Book](https://demo.hibbittsdesign.org/grav-open-publishing-quark2-pressbooks-udl/) – converted with the free Pressbooks Converter
     - [Converted to Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-publishing-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&collapsibleSidebarGroups=true&pagination=true&searchbox=true&name=Open%20Publishing%20Space%20Guides&zoom-images=true) – the skeleton's guides, converted with the free Grav Docsify Bridge
-- [Grav Open Course Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-course-space) – free, for one course or many (an early preview)
+- [Grav Open Course Space Skeleton](https://github.com/hibbitts-design/grav-skeleton-open-course-space) – free, for one course or many (a preview release)
   - Example Open Course Space variations:
     - [Imported LMS Course](https://demo.hibbittsdesign.org/variants/grav-open-course-space-common-cartridge-it2dda/) – converted with the free Common Cartridge Converter
 - [Grav Open Course Hub Skeleton](https://github.com/hibbitts-design/grav-skeleton-course-hub) – free, also for Grav 1.7; in maintenance mode soon, with Open Course Space for new sites ([learn more](https://hibbittsdesign.org/grav-open-course-hub.html))
